@@ -1,0 +1,2000 @@
+2012-12-31	16:26	Anaheim	Men's Clothing	205.96	Discover
+2012-12-31	16:26	Charlotte	CDs	11.32	MasterCard
+2012-12-31	16:26	Irvine	Men's Clothing	436	Visa
+2012-12-31	16:26	Columbus	Men's Clothing	9.02	Discover
+2012-12-31	16:26	Jacksonville	Children's Clothing	480.9	Amex
+2012-12-31	16:26	Milwaukee	CDs	31.27	Cash
+2012-12-31	16:26	Birmingham	Cameras	488.78	Cash
+2012-12-31	16:26	Chula Vista	Pet Supplies	91.01	Visa
+2012-12-31	16:26	Gilbert	Crafts	473.85	MasterCard
+2012-12-31	16:26	Spokane	Children's Clothing	387.29	Cash
+2012-12-31	16:26	San Bernardino	Health and Beauty	322.53	MasterCard
+2012-12-31	16:26	Bakersfield	Cameras	59.73	Discover
+2012-12-31	16:26	Fort Wayne	Computers	121.3	Cash
+2012-12-31	16:26	Spokane	Baby	424.56	Visa
+2012-12-31	16:26	Scottsdale	Women's Clothing	71	Discover
+2012-12-31	16:26	Boise	Toys	175.66	Discover
+2012-12-31	16:27	San Bernardino	CDs	138.49	Visa
+2012-12-31	16:27	Nashville	Sporting Goods	359.79	Visa
+2012-12-31	16:27	Glendale	Cameras	74.55	Cash
+2012-12-31	16:27	Baltimore	Children's Clothing	321.63	Visa
+2012-12-31	16:27	Tucson	Garden	428.56	Visa
+2012-12-31	16:27	Durham	Garden	105.65	Discover
+2012-12-31	16:27	Durham	CDs	143.39	Discover
+2012-12-31	16:27	Baton Rouge	Garden	168.6	Discover
+2012-12-31	16:27	Philadelphia	CDs	202.97	Cash
+2012-12-31	16:27	Fort Wayne	Health and Beauty	274.17	Amex
+2012-12-31	16:27	Rochester	Cameras	435.14	Amex
+2012-12-31	16:27	Buffalo	Health and Beauty	311.24	Discover
+2012-12-31	16:27	Boise	Books	388.19	Amex
+2012-12-31	16:27	Madison	Consumer Electronics	194.77	Cash
+2012-12-31	16:27	Saint Paul	Consumer Electronics	423.25	Cash
+2012-12-31	16:27	Laredo	Music	302.69	Cash
+2012-12-31	16:27	Santa Ana	Baby	352.11	Discover
+2012-12-31	16:27	Fort Worth	DVDs	261.6	Amex
+2012-12-31	16:27	Rochester	Cameras	293.11	Amex
+2012-12-31	16:27	Milwaukee	Cameras	297.95	Cash
+2012-12-31	16:27	San Diego	Consumer Electronics	291.73	Amex
+2012-12-31	16:27	Lubbock	Cameras	352.47	Cash
+2012-12-31	16:27	San Bernardino	Men's Clothing	240.29	Cash
+2012-12-31	16:27	New York	Books	28.03	Discover
+2012-12-31	16:27	Nashville	Crafts	89.58	Amex
+2012-12-31	16:27	Boise	Cameras	229.74	Amex
+2012-12-31	16:28	Chicago	Video Games	358.55	MasterCard
+2012-12-31	16:28	North Las Vegas	Music	172.56	Cash
+2012-12-31	16:28	Chicago	CDs	316.27	Discover
+2012-12-31	16:28	Saint Paul	Garden	21.85	Discover
+2012-12-31	16:28	Kansas City	Crafts	163.63	Cash
+2012-12-31	16:28	Fremont	Garden	56.51	Visa
+2012-12-31	16:28	Honolulu	Garden	326.29	Discover
+2012-12-31	16:28	Fremont	Baby	76.71	Discover
+2012-12-31	16:28	Houston	CDs	141.03	MasterCard
+2012-12-31	16:28	Rochester	Baby	311.94	Visa
+2012-12-31	16:28	San Antonio	Cameras	255.08	Amex
+2012-12-31	16:28	Chula Vista	Men's Clothing	454.56	Cash
+2012-12-31	16:28	Rochester	Sporting Goods	367.83	Cash
+2012-12-31	16:28	Fresno	Computers	2.98	Cash
+2012-12-31	16:28	Laredo	CDs	70.14	MasterCard
+2012-12-31	16:28	Minneapolis	Men's Clothing	424.55	Cash
+2012-12-31	16:28	Boston	Garden	430.1	Discover
+2012-12-31	16:28	Arlington	Video Games	400.7	Visa
+2012-12-31	16:28	Anaheim	Garden	54.71	MasterCard
+2012-12-31	16:28	Las Vegas	Consumer Electronics	77.68	Cash
+2012-12-31	16:28	Atlanta	Computers	32.96	Amex
+2012-12-31	16:28	Anaheim	Consumer Electronics	286.19	Cash
+2012-12-31	16:28	Fremont	Pet Supplies	311.59	Discover
+2012-12-31	16:29	Cleveland	Toys	120.3	MasterCard
+2012-12-31	16:29	Irving	DVDs	295.14	Visa
+2012-12-31	16:29	Anaheim	CDs	267.67	Cash
+2012-12-31	16:29	Fremont	Women's Clothing	249.74	Amex
+2012-12-31	16:29	Birmingham	Books	120.84	Cash
+2012-12-31	16:29	Oakland	Computers	169.57	Visa
+2012-12-31	16:29	North Las Vegas	Toys	234.61	Visa
+2012-12-31	16:29	Boise	Health and Beauty	210.18	Amex
+2012-12-31	16:29	Spokane	Consumer Electronics	37.98	Cash
+2012-12-31	16:29	Newark	Music	468.19	Amex
+2012-12-31	16:29	Buffalo	CDs	257.66	Visa
+2012-12-31	16:29	Boise	Sporting Goods	216.42	Visa
+2012-12-31	16:29	Fort Wayne	Video Games	157.35	Cash
+2012-12-31	16:29	Irvine	Women's Clothing	22.47	MasterCard
+2012-12-31	16:29	Milwaukee	Video Games	277.46	Discover
+2012-12-31	16:29	Durham	Consumer Electronics	181.34	MasterCard
+2012-12-31	16:30	Laredo	Women's Clothing	444.19	Cash
+2012-12-31	16:30	Nashville	Toys	311.79	Discover
+2012-12-31	16:30	Corpus Christi	Music	19.46	Amex
+2012-12-31	16:30	Stockton	Men's Clothing	150.85	Discover
+2012-12-31	16:30	San Jose	Children's Clothing	422.5	Cash
+2012-12-31	16:30	Chula Vista	Music	245.63	MasterCard
+2012-12-31	16:30	Fresno	Health and Beauty	222.6	Cash
+2012-12-31	16:30	Irving	Men's Clothing	270.81	Cash
+2012-12-31	16:30	Fresno	Music	246.51	Amex
+2012-12-31	16:30	Tampa	Video Games	467.08	Amex
+2012-12-31	16:30	Sacramento	Children's Clothing	54	Amex
+2012-12-31	16:30	Columbus	Pet Supplies	417.12	Cash
+2012-12-31	16:30	Colorado Springs	Video Games	300.45	Amex
+2012-12-31	16:30	Minneapolis	Cameras	82.24	Cash
+2012-12-31	16:30	Cleveland	DVDs	376.36	MasterCard
+2012-12-31	16:30	Fresno	Health and Beauty	391.3	MasterCard
+2012-12-31	16:30	Baltimore	Cameras	230.91	Discover
+2012-12-31	16:30	Denver	Garden	10.87	Amex
+2012-12-31	16:30	Tucson	CDs	149.61	Discover
+2012-12-31	16:30	Washington	Computers	193.03	Amex
+2012-12-31	16:31	Riverside	Computers	78.87	Amex
+2012-12-31	16:31	St. Louis	Garden	35.21	Cash
+2012-12-31	16:31	San Jose	Music	374.64	MasterCard
+2012-12-31	16:31	Jacksonville	Crafts	43.14	MasterCard
+2012-12-31	16:31	Santa Ana	Men's Clothing	283.35	Cash
+2012-12-31	16:31	Albuquerque	Women's Clothing	120.87	Cash
+2012-12-31	16:31	Durham	Children's Clothing	16.55	Cash
+2012-12-31	16:31	Madison	Baby	455.61	Visa
+2012-12-31	16:31	Colorado Springs	Health and Beauty	180.83	MasterCard
+2012-12-31	16:31	Fort Worth	Men's Clothing	474.65	Discover
+2012-12-31	16:31	Virginia Beach	Baby	315.28	Amex
+2012-12-31	16:31	Minneapolis	Health and Beauty	75.01	Amex
+2012-12-31	16:31	Corpus Christi	Sporting Goods	420.1	Amex
+2012-12-31	16:31	Louisville	Women's Clothing	130.99	Amex
+2012-12-31	16:31	Tampa	Garden	73.42	Amex
+2012-12-31	16:31	Richmond	Children's Clothing	87.52	Cash
+2012-12-31	16:31	Stockton	Books	494.74	MasterCard
+2012-12-31	16:31	El Paso	Women's Clothing	244.65	Visa
+2012-12-31	16:31	Columbus	Women's Clothing	138.14	Cash
+2012-12-31	16:32	Fremont	Children's Clothing	292.91	Discover
+2012-12-31	16:32	San Bernardino	Consumer Electronics	459.32	Amex
+2012-12-31	16:32	Memphis	Consumer Electronics	405.98	Discover
+2012-12-31	16:32	Fremont	Garden	55.49	Visa
+2012-12-31	16:32	Phoenix	Baby	177.1	Discover
+2012-12-31	16:32	Washington	Children's Clothing	0.31	Visa
+2012-12-31	16:32	Nashville	Cameras	423.55	Cash
+2012-12-31	16:32	San Francisco	Computers	444.59	Discover
+2012-12-31	16:32	Lubbock	Toys	284.67	Amex
+2012-12-31	16:32	Chula Vista	Children's Clothing	490.5	Amex
+2012-12-31	16:32	Tucson	Crafts	63.3	Discover
+2012-12-31	16:32	Irving	Sporting Goods	102.86	Visa
+2012-12-31	16:32	Oklahoma City	Garden	340.77	Cash
+2012-12-31	16:32	Baltimore	Computers	93.92	MasterCard
+2012-12-31	16:32	Lexington	Computers	495.7	Cash
+2012-12-31	16:32	Portland	CDs	274.4	Discover
+2012-12-31	16:32	San Bernardino	Crafts	299.26	Cash
+2012-12-31	16:32	Oakland	Video Games	389.97	Amex
+2012-12-31	16:32	Denver	Men's Clothing	232.94	MasterCard
+2012-12-31	16:32	El Paso	DVDs	378.23	Visa
+2012-12-31	16:33	Anaheim	Computers	338.49	Cash
+2012-12-31	16:33	Raleigh	Sporting Goods	250.58	Discover
+2012-12-31	16:33	Garland	CDs	214.74	Amex
+2012-12-31	16:33	Saint Paul	Baby	291.76	Amex
+2012-12-31	16:33	Laredo	Cameras	141.74	MasterCard
+2012-12-31	16:33	Henderson	CDs	178.46	MasterCard
+2012-12-31	16:33	Orlando	Cameras	163.5	Discover
+2012-12-31	16:33	Denver	DVDs	386.58	Amex
+2012-12-31	16:33	Boise	Toys	319.84	Cash
+2012-12-31	16:33	Toledo	Music	485.01	Cash
+2012-12-31	16:33	Anaheim	Health and Beauty	495.54	MasterCard
+2012-12-31	16:33	Phoenix	Music	289.05	Amex
+2012-12-31	16:33	Baton Rouge	Cameras	70.18	Cash
+2012-12-31	16:33	Fort Wayne	Video Games	121.73	Visa
+2012-12-31	16:33	Detroit	Pet Supplies	495.4	Amex
+2012-12-31	16:33	Minneapolis	Cameras	380.63	Visa
+2012-12-31	16:33	Norfolk	Music	193.69	Discover
+2012-12-31	16:33	Portland	Sporting Goods	200.25	Amex
+2012-12-31	16:33	El Paso	Men's Clothing	254.51	Amex
+2012-12-31	16:33	Greensboro	Children's Clothing	147.02	Discover
+2012-12-31	16:34	Milwaukee	Sporting Goods	238.16	MasterCard
+2012-12-31	16:34	San Francisco	Cameras	250.07	MasterCard
+2012-12-31	16:34	Chandler	Men's Clothing	229.53	Amex
+2012-12-31	16:34	Los Angeles	Toys	36.11	Amex
+2012-12-31	16:34	Lincoln	Books	21.65	MasterCard
+2012-12-31	16:34	Oklahoma City	Garden	294.17	MasterCard
+2012-12-31	16:34	Boise	Cameras	97.87	Cash
+2012-12-31	16:34	Rochester	Garden	287.81	Visa
+2012-12-31	16:34	Irvine	Sporting Goods	86.41	Cash
+2012-12-31	16:34	Detroit	Sporting Goods	338.95	Visa
+2012-12-31	16:34	Sacramento	Crafts	162.88	Discover
+2012-12-31	16:34	Buffalo	Cameras	259.16	Amex
+2012-12-31	16:34	Irvine	Pet Supplies	465.6	Discover
+2012-12-31	16:34	Colorado Springs	Toys	426.47	Amex
+2012-12-31	16:34	San Bernardino	Cameras	217.34	Visa
+2012-12-31	16:34	Oklahoma City	Women's Clothing	495.38	Visa
+2012-12-31	16:34	Santa Ana	CDs	93.31	MasterCard
+2012-12-31	16:34	Fort Wayne	CDs	262.61	Discover
+2012-12-31	16:34	Las Vegas	Sporting Goods	278.42	Cash
+2012-12-31	16:34	Mesa	Health and Beauty	273.03	Cash
+2012-12-31	16:34	Winston–Salem	Sporting Goods	56.39	Cash
+2012-12-31	16:34	Albuquerque	Computers	33.45	Visa
+2012-12-31	16:35	Austin	Computers	344.29	Cash
+2012-12-31	16:35	Greensboro	CDs	54.23	Amex
+2012-12-31	16:35	Detroit	Video Games	388.09	Amex
+2012-12-31	16:35	Fort Wayne	Women's Clothing	298.66	Amex
+2012-12-31	16:35	Buffalo	Toys	334.81	Visa
+2012-12-31	16:35	San Jose	Consumer Electronics	464.17	Amex
+2012-12-31	16:35	Colorado Springs	Children's Clothing	477.4	Cash
+2012-12-31	16:35	Chicago	Women's Clothing	496.56	Visa
+2012-12-31	16:35	Virginia Beach	Health and Beauty	281.19	Amex
+2012-12-31	16:35	Buffalo	Men's Clothing	188.49	Visa
+2012-12-31	16:35	Greensboro	Crafts	259.58	Visa
+2012-12-31	16:35	Buffalo	Cameras	216.32	Amex
+2012-12-31	16:35	Wichita	Consumer Electronics	405.52	Cash
+2012-12-31	16:35	Chicago	Computers	272.72	Amex
+2012-12-31	16:35	Boise	Children's Clothing	490.87	Amex
+2012-12-31	16:35	Laredo	Books	214.18	Cash
+2012-12-31	16:35	Fresno	Men's Clothing	348.4	MasterCard
+2012-12-31	16:35	Fresno	Garden	42.87	Cash
+2012-12-31	16:35	Fremont	Cameras	341.2	Discover
+2012-12-31	16:35	Baltimore	Music	432.55	Visa
+2012-12-31	16:35	Charlotte	Health and Beauty	60.34	Amex
+2012-12-31	16:35	Orlando	Consumer Electronics	499.46	Cash
+2012-12-31	16:35	New York	Women's Clothing	182.85	Amex
+2012-12-31	16:35	Austin	CDs	19.96	Discover
+2012-12-31	16:36	Nashville	Consumer Electronics	101.36	Amex
+2012-12-31	16:36	Jersey City	Cameras	320.41	Visa
+2012-12-31	16:36	St. Louis	Garden	334.58	MasterCard
+2012-12-31	16:36	Phoenix	Crafts	116.55	Cash
+2012-12-31	16:36	St. Petersburg	Men's Clothing	453.49	Visa
+2012-12-31	16:36	Plano	CDs	79.7	MasterCard
+2012-12-31	16:36	Memphis	Computers	7.92	Visa
+2012-12-31	16:36	Oklahoma City	Sporting Goods	390.29	Visa
+2012-12-31	16:36	Irvine	Video Games	368.98	MasterCard
+2012-12-31	16:36	Louisville	Children's Clothing	476.64	Amex
+2012-12-31	16:36	Columbus	Health and Beauty	235.99	Visa
+2012-12-31	16:36	Corpus Christi	Cameras	5.66	Cash
+2012-12-31	16:36	Chesapeake	Baby	106.57	Cash
+2012-12-31	16:36	Hialeah	Garden	489.69	Cash
+2012-12-31	16:36	New York	Garden	245.07	Visa
+2012-12-31	16:36	Raleigh	CDs	67.48	Visa
+2012-12-31	16:36	Henderson	Computers	111.58	Discover
+2012-12-31	16:36	Charlotte	Toys	95.26	Cash
+2012-12-31	16:36	San Antonio	Cameras	297.93	Amex
+2012-12-31	16:36	Kansas City	Men's Clothing	448.62	Visa
+2012-12-31	16:36	Charlotte	CDs	311.99	Discover
+2012-12-31	16:37	Saint Paul	Music	25.36	Cash
+2012-12-31	16:37	Las Vegas	Children's Clothing	177.94	Cash
+2012-12-31	16:37	New Orleans	Cameras	195.15	Amex
+2012-12-31	16:37	Fresno	Children's Clothing	1.24	Amex
+2012-12-31	16:37	Chula Vista	Crafts	201.52	Visa
+2012-12-31	16:37	Indianapolis	Music	169.39	Amex
+2012-12-31	16:37	Milwaukee	Crafts	251.69	Amex
+2012-12-31	16:37	Saint Paul	Pet Supplies	213.88	Discover
+2012-12-31	16:37	Memphis	CDs	416.25	Cash
+2012-12-31	16:37	Indianapolis	Consumer Electronics	393.95	MasterCard
+2012-12-31	16:37	Pittsburgh	Men's Clothing	340.96	Discover
+2012-12-31	16:37	Newark	Children's Clothing	173.49	Cash
+2012-12-31	16:37	Chesapeake	Pet Supplies	47.77	Visa
+2012-12-31	16:37	Milwaukee	Women's Clothing	178.1	Cash
+2012-12-31	16:37	Mesa	Men's Clothing	158.5	Amex
+2012-12-31	16:37	Orlando	Consumer Electronics	215.26	MasterCard
+2012-12-31	16:37	Albuquerque	Health and Beauty	454.76	MasterCard
+2012-12-31	16:37	Houston	Music	335.94	Visa
+2012-12-31	16:37	Milwaukee	DVDs	178.65	Amex
+2012-12-31	16:37	Winston–Salem	Toys	233.52	MasterCard
+2012-12-31	16:37	Newark	Children's Clothing	66.09	Discover
+2012-12-31	16:37	Indianapolis	Crafts	296.96	MasterCard
+2012-12-31	16:37	Pittsburgh	Books	177.72	Visa
+2012-12-31	16:37	Raleigh	Toys	444.49	Visa
+2012-12-31	16:37	Irvine	Crafts	308.31	Visa
+2012-12-31	16:37	Houston	Crafts	450.27	Amex
+2012-12-31	16:37	Indianapolis	DVDs	209.03	Discover
+2012-12-31	16:38	Madison	Consumer Electronics	320.62	Amex
+2012-12-31	16:38	Las Vegas	DVDs	326.47	Discover
+2012-12-31	16:38	Winston–Salem	CDs	220.26	Amex
+2012-12-31	16:38	Kansas City	Baby	78.9	Amex
+2012-12-31	16:38	Las Vegas	Computers	232.22	Visa
+2012-12-31	16:38	Honolulu	Baby	325.03	Discover
+2012-12-31	16:38	Laredo	CDs	275.44	Visa
+2012-12-31	16:38	Irving	Music	445.55	MasterCard
+2012-12-31	16:38	North Las Vegas	Toys	50.59	MasterCard
+2012-12-31	16:38	Fort Wayne	Children's Clothing	440.69	Discover
+2012-12-31	16:38	Las Vegas	Consumer Electronics	337.07	MasterCard
+2012-12-31	16:38	San Francisco	Music	90.6	Visa
+2012-12-31	16:38	Greensboro	Video Games	407.71	Cash
+2012-12-31	16:38	Spokane	Health and Beauty	119.59	Amex
+2012-12-31	16:38	Lincoln	Baby	20.13	Discover
+2012-12-31	16:38	Los Angeles	Consumer Electronics	440.78	Visa
+2012-12-31	16:38	Colorado Springs	Toys	5.16	MasterCard
+2012-12-31	16:38	Oklahoma City	Cameras	288.23	Discover
+2012-12-31	16:38	Chula Vista	Video Games	77.34	Visa
+2012-12-31	16:38	Norfolk	Music	335.92	MasterCard
+2012-12-31	16:38	Honolulu	Baby	155.59	Discover
+2012-12-31	16:38	Indianapolis	Pet Supplies	355.24	MasterCard
+2012-12-31	16:38	Corpus Christi	Books	0.4	Visa
+2012-12-31	16:38	Fort Wayne	Pet Supplies	212.93	MasterCard
+2012-12-31	16:38	El Paso	Garden	145.81	Visa
+2012-12-31	16:39	Columbus	Health and Beauty	137.57	Cash
+2012-12-31	16:39	Long Beach	Sporting Goods	71.63	Amex
+2012-12-31	16:39	Washington	Cameras	88.93	MasterCard
+2012-12-31	16:39	Charlotte	Books	260.44	Visa
+2012-12-31	16:39	Portland	Children's Clothing	35.27	Cash
+2012-12-31	16:39	Mesa	Books	73.43	MasterCard
+2012-12-31	16:39	Seattle	Computers	111.04	Amex
+2012-12-31	16:39	Durham	Men's Clothing	212.45	Discover
+2012-12-31	16:39	Los Angeles	Crafts	116.26	Cash
+2012-12-31	16:39	Hialeah	Cameras	220.4	Cash
+2012-12-31	16:39	Birmingham	DVDs	431.9	Cash
+2012-12-31	16:39	Aurora	Books	132.51	MasterCard
+2012-12-31	16:39	Portland	Toys	252.51	Amex
+2012-12-31	16:39	Toledo	Toys	166.82	Cash
+2012-12-31	16:39	New Orleans	DVDs	0.71	Visa
+2012-12-31	16:39	Fort Worth	Books	196.43	MasterCard
+2012-12-31	16:39	Richmond	Children's Clothing	265.54	Discover
+2012-12-31	16:39	Baton Rouge	Music	374.78	Discover
+2012-12-31	16:39	Cleveland	Garden	396.8	MasterCard
+2012-12-31	16:39	Arlington	Pet Supplies	455.38	Cash
+2012-12-31	16:39	Jersey City	Music	452.31	Cash
+2012-12-31	16:39	Kansas City	Pet Supplies	197.56	Amex
+2012-12-31	16:40	Henderson	Consumer Electronics	3.15	Visa
+2012-12-31	16:40	Pittsburgh	Children's Clothing	184.48	MasterCard
+2012-12-31	16:40	Fremont	Video Games	85.91	Amex
+2012-12-31	16:40	San Bernardino	Video Games	149.25	Visa
+2012-12-31	16:40	Anchorage	Music	434.12	MasterCard
+2012-12-31	16:40	Chandler	Toys	279.48	Visa
+2012-12-31	16:40	Jacksonville	Computers	294.01	Visa
+2012-12-31	16:40	Gilbert	Music	476.53	Discover
+2012-12-31	16:40	Virginia Beach	Garden	220.35	Cash
+2012-12-31	16:40	Lubbock	CDs	276.11	Amex
+2012-12-31	16:40	Oklahoma City	DVDs	236.53	Visa
+2012-12-31	16:40	Nashville	Cameras	147.89	Cash
+2012-12-31	16:40	Columbus	Garden	128.19	Discover
+2012-12-31	16:40	Denver	Men's Clothing	481.36	Visa
+2012-12-31	16:40	Tulsa	Video Games	442.52	Cash
+2012-12-31	16:40	Seattle	Health and Beauty	29.47	MasterCard
+2012-12-31	16:40	Orlando	Baby	346.86	Amex
+2012-12-31	16:40	Jacksonville	Music	468.85	Cash
+2012-12-31	16:40	Raleigh	Video Games	11.27	Visa
+2012-12-31	16:40	Dallas	Pet Supplies	220.09	Visa
+2012-12-31	16:40	Boston	Computers	25.72	Visa
+2012-12-31	16:40	Richmond	Crafts	208.03	Visa
+2012-12-31	16:40	Detroit	Consumer Electronics	481.85	Visa
+2012-12-31	16:40	Lubbock	Baby	63.91	Visa
+2012-12-31	16:41	Chicago	Crafts	453.94	Visa
+2012-12-31	16:41	Indianapolis	Toys	55.37	MasterCard
+2012-12-31	16:41	Fresno	Consumer Electronics	280.72	Cash
+2012-12-31	16:41	Boise	Cameras	32.53	MasterCard
+2012-12-31	16:41	Reno	Health and Beauty	159.7	Cash
+2012-12-31	16:41	Saint Paul	Crafts	289.35	Amex
+2012-12-31	16:41	Louisville	Sporting Goods	107.58	Discover
+2012-12-31	16:41	Sacramento	Toys	337.81	Discover
+2012-12-31	16:41	Buffalo	Women's Clothing	319.16	MasterCard
+2012-12-31	16:41	St. Louis	Children's Clothing	193.5	Cash
+2012-12-31	16:41	Nashville	CDs	172.9	MasterCard
+2012-12-31	16:41	Oklahoma City	Video Games	17.89	Visa
+2012-12-31	16:41	Portland	Men's Clothing	288.98	Amex
+2012-12-31	16:41	Lexington	Books	285.46	Discover
+2012-12-31	16:41	Los Angeles	Garden	96.56	Visa
+2012-12-31	16:41	Wichita	Crafts	327.66	Visa
+2012-12-31	16:41	Chula Vista	Consumer Electronics	412.94	Cash
+2012-12-31	16:41	Irving	Pet Supplies	130.62	MasterCard
+2012-12-31	16:41	Newark	Children's Clothing	306.65	Amex
+2012-12-31	16:41	Chesapeake	Crafts	158.29	Visa
+2012-12-31	16:41	Atlanta	Men's Clothing	409.75	Discover
+2012-12-31	16:42	Fremont	Baby	269.67	Cash
+2012-12-31	16:42	Spokane	DVDs	274.78	Amex
+2012-12-31	16:42	El Paso	Music	42.83	Cash
+2012-12-31	16:42	Raleigh	Garden	303.18	Amex
+2012-12-31	16:42	Jacksonville	Video Games	133.37	Discover
+2012-12-31	16:42	Nashville	Computers	209.65	MasterCard
+2012-12-31	16:42	Irvine	Women's Clothing	289.26	Cash
+2012-12-31	16:42	Oakland	Cameras	103.87	Cash
+2012-12-31	16:42	Portland	Health and Beauty	491.09	Visa
+2012-12-31	16:42	Oklahoma City	Health and Beauty	59.03	MasterCard
+2012-12-31	16:42	Indianapolis	Women's Clothing	478.49	Discover
+2012-12-31	16:42	Dallas	DVDs	407.94	Visa
+2012-12-31	16:42	Jersey City	Pet Supplies	68.15	Amex
+2012-12-31	16:42	Oakland	Health and Beauty	5.25	Discover
+2012-12-31	16:42	Winston–Salem	CDs	294.47	MasterCard
+2012-12-31	16:42	Jersey City	Cameras	433.26	Discover
+2012-12-31	16:42	Irvine	Crafts	290.9	Discover
+2012-12-31	16:42	Riverside	Baby	488.85	Visa
+2012-12-31	16:42	Garland	Consumer Electronics	284.6	Visa
+2012-12-31	16:43	Lexington	Men's Clothing	207.07	Discover
+2012-12-31	16:43	Arlington	Music	490.78	Amex
+2012-12-31	16:43	San Diego	Garden	484.7	Amex
+2012-12-31	16:43	Philadelphia	DVDs	443.1	Discover
+2012-12-31	16:43	San Bernardino	CDs	179.46	Visa
+2012-12-31	16:43	El Paso	Computers	422.12	Visa
+2012-12-31	16:43	Memphis	Toys	466.88	MasterCard
+2012-12-31	16:43	Nashville	Cameras	202.69	Discover
+2012-12-31	16:43	Milwaukee	Toys	87.09	Visa
+2012-12-31	16:43	Irving	Crafts	38.36	Cash
+2012-12-31	16:43	Oakland	Crafts	25.79	Amex
+2012-12-31	16:43	Kansas City	Video Games	272.54	Amex
+2012-12-31	16:43	San Francisco	Toys	470.1	MasterCard
+2012-12-31	16:43	Chula Vista	Cameras	232.7	Cash
+2012-12-31	16:43	Washington	Toys	479.16	Discover
+2012-12-31	16:43	Lubbock	Books	478.67	Cash
+2012-12-31	16:43	Portland	Cameras	454.58	Discover
+2012-12-31	16:43	Garland	Pet Supplies	165.33	Visa
+2012-12-31	16:43	Portland	Garden	223.24	Amex
+2012-12-31	16:43	Oklahoma City	CDs	139.66	Visa
+2012-12-31	16:43	San Jose	Children's Clothing	228.34	Discover
+2012-12-31	16:43	Portland	Toys	52.58	Cash
+2012-12-31	16:44	San Antonio	Music	351.24	Discover
+2012-12-31	16:44	Dallas	Sporting Goods	460.23	Discover
+2012-12-31	16:44	Austin	Toys	52.56	Discover
+2012-12-31	16:44	Scottsdale	DVDs	216.81	Amex
+2012-12-31	16:44	Fremont	Music	493.64	Discover
+2012-12-31	16:44	Nashville	CDs	156.23	Cash
+2012-12-31	16:44	Cincinnati	Video Games	424.16	Visa
+2012-12-31	16:44	San Francisco	Pet Supplies	404.43	Cash
+2012-12-31	16:44	Madison	Music	259.83	Visa
+2012-12-31	16:44	New Orleans	Toys	75.44	MasterCard
+2012-12-31	16:44	Atlanta	Books	384.34	Cash
+2012-12-31	16:44	Lincoln	CDs	7.97	Cash
+2012-12-31	16:44	Glendale	Health and Beauty	205.11	MasterCard
+2012-12-31	16:44	Indianapolis	Cameras	272.7	Cash
+2012-12-31	16:44	Phoenix	Garden	316.99	Visa
+2012-12-31	16:44	Boston	Sporting Goods	231.1	Discover
+2012-12-31	16:44	Cincinnati	DVDs	263.53	Discover
+2012-12-31	16:44	Saint Paul	Toys	287.01	Visa
+2012-12-31	16:44	Oakland	Books	304.69	Visa
+2012-12-31	16:44	Chesapeake	Health and Beauty	185.78	Discover
+2012-12-31	16:44	Seattle	Cameras	5.84	Discover
+2012-12-31	16:45	Laredo	Books	380.06	MasterCard
+2012-12-31	16:45	Jersey City	Health and Beauty	12.28	Amex
+2012-12-31	16:45	Atlanta	Women's Clothing	472.66	Discover
+2012-12-31	16:45	Kansas City	Consumer Electronics	86.5	MasterCard
+2012-12-31	16:45	Stockton	Toys	3.41	Discover
+2012-12-31	16:45	Chula Vista	Health and Beauty	369.75	Visa
+2012-12-31	16:45	Anaheim	Video Games	319.95	Amex
+2012-12-31	16:45	Chandler	Video Games	407.37	Discover
+2012-12-31	16:45	Laredo	DVDs	197.44	MasterCard
+2012-12-31	16:45	Las Vegas	Consumer Electronics	135.1	Discover
+2012-12-31	16:45	San Diego	Toys	404.67	Amex
+2012-12-31	16:45	Buffalo	Pet Supplies	225.46	Cash
+2012-12-31	16:45	Greensboro	Cameras	210.69	Cash
+2012-12-31	16:45	Atlanta	Computers	160.08	Amex
+2012-12-31	16:45	Lexington	Music	320.54	MasterCard
+2012-12-31	16:45	St. Petersburg	Garden	295.17	Discover
+2012-12-31	16:45	Plano	DVDs	259.79	Discover
+2012-12-31	16:45	Raleigh	Video Games	79.88	Cash
+2012-12-31	16:45	Sacramento	Pet Supplies	391.77	Cash
+2012-12-31	16:45	Rochester	Cameras	323.53	Visa
+2012-12-31	16:45	Indianapolis	Music	189.72	MasterCard
+2012-12-31	16:45	Honolulu	Women's Clothing	221.97	Cash
+2012-12-31	16:45	San Francisco	CDs	496.73	MasterCard
+2012-12-31	16:45	Anchorage	Crafts	179.85	Cash
+2012-12-31	16:45	Irving	Pet Supplies	179.71	Amex
+2012-12-31	16:46	San Antonio	Crafts	298.72	Amex
+2012-12-31	16:46	Chandler	Sporting Goods	284.19	Discover
+2012-12-31	16:46	Phoenix	Cameras	34.69	Visa
+2012-12-31	16:46	New Orleans	Books	60.99	Discover
+2012-12-31	16:46	Boise	DVDs	306.27	Cash
+2012-12-31	16:46	Milwaukee	Women's Clothing	149.84	MasterCard
+2012-12-31	16:46	Durham	Children's Clothing	269.04	Visa
+2012-12-31	16:46	St. Petersburg	Children's Clothing	26.66	Cash
+2012-12-31	16:46	Buffalo	Computers	464.91	Visa
+2012-12-31	16:46	Albuquerque	Health and Beauty	109.95	Visa
+2012-12-31	16:46	Anchorage	DVDs	252.73	Cash
+2012-12-31	16:46	Garland	Cameras	273.53	MasterCard
+2012-12-31	16:46	Albuquerque	Women's Clothing	425.69	MasterCard
+2012-12-31	16:46	Honolulu	Women's Clothing	141.19	Discover
+2012-12-31	16:46	Spokane	Health and Beauty	466.21	Cash
+2012-12-31	16:46	Chicago	Cameras	89.83	Visa
+2012-12-31	16:46	Newark	Baby	447.95	Cash
+2012-12-31	16:46	Aurora	Toys	102	Cash
+2012-12-31	16:46	Chicago	Men's Clothing	452.47	MasterCard
+2012-12-31	16:46	Indianapolis	Video Games	43.88	Discover
+2012-12-31	16:46	Reno	Sporting Goods	254.64	Cash
+2012-12-31	16:47	Cleveland	Men's Clothing	94.32	MasterCard
+2012-12-31	16:47	Glendale	Computers	486.29	Visa
+2012-12-31	16:47	Kansas City	Baby	282.53	Visa
+2012-12-31	16:47	Albuquerque	Children's Clothing	18.78	Discover
+2012-12-31	16:47	Irving	Sporting Goods	469.89	Visa
+2012-12-31	16:47	Columbus	Toys	389.65	Visa
+2012-12-31	16:47	Aurora	Sporting Goods	110.52	MasterCard
+2012-12-31	16:47	Scottsdale	DVDs	211.33	Cash
+2012-12-31	16:47	Laredo	Video Games	444.06	Amex
+2012-12-31	16:47	Baltimore	Toys	430.76	Cash
+2012-12-31	16:47	Detroit	Pet Supplies	130.54	Visa
+2012-12-31	16:47	St. Petersburg	Crafts	295.83	Discover
+2012-12-31	16:47	Phoenix	Sporting Goods	315.96	Discover
+2012-12-31	16:47	El Paso	Cameras	400.24	Amex
+2012-12-31	16:47	Seattle	Health and Beauty	318.7	Visa
+2012-12-31	16:47	Birmingham	Women's Clothing	239.33	Amex
+2012-12-31	16:47	Fresno	Books	201.28	Amex
+2012-12-31	16:47	Anaheim	Computers	431.42	Visa
+2012-12-31	16:47	Madison	Men's Clothing	24.4	Amex
+2012-12-31	16:47	Cincinnati	Crafts	89.45	Visa
+2012-12-31	16:47	Cincinnati	Children's Clothing	442.32	MasterCard
+2012-12-31	16:48	Detroit	Pet Supplies	182.48	Visa
+2012-12-31	16:48	Newark	Pet Supplies	55.33	Amex
+2012-12-31	16:48	Wichita	Baby	491.14	Cash
+2012-12-31	16:48	Bakersfield	Music	322.37	Discover
+2012-12-31	16:48	Birmingham	Men's Clothing	212.82	Visa
+2012-12-31	16:48	Denver	Crafts	442.77	Visa
+2012-12-31	16:48	Winston–Salem	CDs	211.35	Visa
+2012-12-31	16:48	Fort Wayne	Men's Clothing	164.06	Amex
+2012-12-31	16:48	Lubbock	Baby	53.07	Amex
+2012-12-31	16:48	Rochester	Pet Supplies	216.31	MasterCard
+2012-12-31	16:48	Atlanta	Music	41.82	Amex
+2012-12-31	16:48	Milwaukee	Garden	385.82	Visa
+2012-12-31	16:48	Norfolk	CDs	273.63	Cash
+2012-12-31	16:48	Chandler	Music	454.65	Discover
+2012-12-31	16:48	El Paso	Cameras	187.63	MasterCard
+2012-12-31	16:48	Minneapolis	Children's Clothing	161.35	MasterCard
+2012-12-31	16:48	Birmingham	Children's Clothing	428.17	Visa
+2012-12-31	16:48	Sacramento	Pet Supplies	170.8	MasterCard
+2012-12-31	16:48	Baton Rouge	Crafts	390.28	Amex
+2012-12-31	16:48	Baltimore	DVDs	67.83	Amex
+2012-12-31	16:49	Atlanta	Women's Clothing	256.5	Cash
+2012-12-31	16:49	Pittsburgh	CDs	4.34	MasterCard
+2012-12-31	16:49	Chula Vista	Music	254.3	Amex
+2012-12-31	16:49	Jersey City	Consumer Electronics	161.43	Discover
+2012-12-31	16:49	Cincinnati	Computers	284.43	Amex
+2012-12-31	16:49	Saint Paul	Books	86.32	MasterCard
+2012-12-31	16:49	Oklahoma City	Women's Clothing	68.36	Discover
+2012-12-31	16:49	San Bernardino	Men's Clothing	490.65	Cash
+2012-12-31	16:49	Milwaukee	Children's Clothing	172.69	Amex
+2012-12-31	16:49	Pittsburgh	CDs	20.57	Cash
+2012-12-31	16:49	New Orleans	Pet Supplies	401.84	Visa
+2012-12-31	16:49	Gilbert	Computers	52.53	Amex
+2012-12-31	16:49	Phoenix	Crafts	166.05	Discover
+2012-12-31	16:49	Lubbock	Video Games	259.12	Cash
+2012-12-31	16:49	Anaheim	Music	268.68	Cash
+2012-12-31	16:49	San Antonio	Books	111.16	MasterCard
+2012-12-31	16:49	Wichita	Children's Clothing	96.84	Cash
+2012-12-31	16:49	North Las Vegas	CDs	119.59	Amex
+2012-12-31	16:49	Austin	Consumer Electronics	235.35	Visa
+2012-12-31	16:49	Reno	Consumer Electronics	256.02	Discover
+2012-12-31	16:49	Oklahoma City	Baby	452.8	Cash
+2012-12-31	16:49	St. Petersburg	Books	263.55	Discover
+2012-12-31	16:49	Fresno	Cameras	156.62	Amex
+2012-12-31	16:49	Fort Wayne	Baby	135.75	Cash
+2012-12-31	16:49	Memphis	Music	124.42	Visa
+2012-12-31	16:50	Charlotte	Health and Beauty	330.11	Amex
+2012-12-31	16:50	Fort Wayne	Health and Beauty	369.9	Amex
+2012-12-31	16:50	Houston	Women's Clothing	124.9	Discover
+2012-12-31	16:50	Toledo	Pet Supplies	319.68	Visa
+2012-12-31	16:50	Boise	Women's Clothing	19.44	Cash
+2012-12-31	16:50	New Orleans	DVDs	452.07	MasterCard
+2012-12-31	16:50	Lincoln	Video Games	201.57	Cash
+2012-12-31	16:50	Durham	Toys	229.34	Discover
+2012-12-31	16:50	Irving	Books	261.62	Amex
+2012-12-31	16:50	Lubbock	Computers	389.25	Visa
+2012-12-31	16:50	Lincoln	Books	138.01	Visa
+2012-12-31	16:50	Bakersfield	Books	31.02	Amex
+2012-12-31	16:50	Baton Rouge	CDs	197.38	Discover
+2012-12-31	16:50	San Francisco	Consumer Electronics	437.46	Cash
+2012-12-31	16:50	San Antonio	Garden	256.32	Visa
+2012-12-31	16:50	Garland	Women's Clothing	358.25	Discover
+2012-12-31	16:50	Chula Vista	Crafts	476.39	Discover
+2012-12-31	16:50	North Las Vegas	DVDs	166.27	Amex
+2012-12-31	16:50	Oakland	Children's Clothing	49.45	MasterCard
+2012-12-31	16:50	St. Petersburg	Men's Clothing	371.96	Visa
+2012-12-31	16:50	Arlington	Pet Supplies	388.67	Discover
+2012-12-31	16:50	Oklahoma City	Cameras	253.3	Amex
+2012-12-31	16:50	Santa Ana	Pet Supplies	31.81	Amex
+2012-12-31	16:50	Anaheim	Music	183.25	Amex
+2012-12-31	16:51	Austin	Garden	397.78	MasterCard
+2012-12-31	16:51	Hialeah	CDs	85.31	Visa
+2012-12-31	16:51	Charlotte	Women's Clothing	330.19	MasterCard
+2012-12-31	16:51	Tulsa	DVDs	58.39	Amex
+2012-12-31	16:51	Oklahoma City	Health and Beauty	14.01	Cash
+2012-12-31	16:51	Seattle	Garden	265.26	Visa
+2012-12-31	16:51	Anchorage	Toys	355.88	MasterCard
+2012-12-31	16:51	Saint Paul	Health and Beauty	216.85	Cash
+2012-12-31	16:51	San Antonio	Cameras	180.85	Visa
+2012-12-31	16:51	Cleveland	Cameras	222.58	Amex
+2012-12-31	16:51	Scottsdale	Music	402.35	Visa
+2012-12-31	16:51	Pittsburgh	Men's Clothing	378.61	MasterCard
+2012-12-31	16:51	Austin	Garden	150.96	Cash
+2012-12-31	16:51	Madison	Computers	362.99	Cash
+2012-12-31	16:51	Tulsa	Men's Clothing	277.93	Cash
+2012-12-31	16:51	Garland	CDs	231.68	Amex
+2012-12-31	16:51	Santa Ana	Computers	469.55	Visa
+2012-12-31	16:51	Los Angeles	DVDs	311.07	Visa
+2012-12-31	16:51	Madison	Women's Clothing	192.51	MasterCard
+2012-12-31	16:51	Austin	Toys	433.06	Discover
+2012-12-31	16:51	Detroit	Toys	63.46	MasterCard
+2012-12-31	16:52	Aurora	Crafts	436.09	Visa
+2012-12-31	16:52	Orlando	DVDs	237.84	Amex
+2012-12-31	16:52	Oklahoma City	Garden	95.15	Cash
+2012-12-31	16:52	Long Beach	Children's Clothing	147.69	Amex
+2012-12-31	16:52	Lincoln	Toys	243.76	MasterCard
+2012-12-31	16:52	Honolulu	Women's Clothing	322.43	Discover
+2012-12-31	16:52	Minneapolis	Women's Clothing	101.73	Amex
+2012-12-31	16:52	Rochester	Crafts	43.12	Cash
+2012-12-31	16:52	Charlotte	Pet Supplies	155.23	MasterCard
+2012-12-31	16:52	Seattle	Children's Clothing	465.02	Discover
+2012-12-31	16:52	Henderson	Video Games	119.4	Discover
+2012-12-31	16:52	Arlington	Video Games	124.75	Discover
+2012-12-31	16:52	Lubbock	Consumer Electronics	359.59	Discover
+2012-12-31	16:52	San Diego	Health and Beauty	363.62	Visa
+2012-12-31	16:52	Birmingham	Pet Supplies	168.4	Visa
+2012-12-31	16:52	Charlotte	Pet Supplies	424.14	Cash
+2012-12-31	16:52	Henderson	Books	20.07	Visa
+2012-12-31	16:52	Bakersfield	CDs	413.29	Amex
+2012-12-31	16:52	Las Vegas	Pet Supplies	483.62	Visa
+2012-12-31	16:52	Baton Rouge	DVDs	102.48	Visa
+2012-12-31	16:52	Wichita	Music	73.22	Visa
+2012-12-31	16:52	Denver	Baby	39.7	Discover
+2012-12-31	16:52	Boston	Consumer Electronics	325.31	MasterCard
+2012-12-31	16:53	North Las Vegas	Toys	14.39	Visa
+2012-12-31	16:53	Tampa	Music	134.09	Amex
+2012-12-31	16:53	Reno	Health and Beauty	325.17	Visa
+2012-12-31	16:53	Santa Ana	Children's Clothing	262.98	Visa
+2012-12-31	16:53	Glendale	CDs	200.62	MasterCard
+2012-12-31	16:53	Laredo	Computers	456.34	MasterCard
+2012-12-31	16:53	Bakersfield	Consumer Electronics	351.78	MasterCard
+2012-12-31	16:53	Chesapeake	CDs	241.58	MasterCard
+2012-12-31	16:53	Lexington	CDs	158.88	MasterCard
+2012-12-31	16:53	Buffalo	Cameras	265.57	Visa
+2012-12-31	16:53	Fremont	Computers	115.67	MasterCard
+2012-12-31	16:53	Charlotte	Pet Supplies	210.19	Visa
+2012-12-31	16:53	Scottsdale	Books	487.05	MasterCard
+2012-12-31	16:53	San Bernardino	Crafts	113.78	Cash
+2012-12-31	16:53	Cincinnati	Children's Clothing	343.63	Cash
+2012-12-31	16:53	Phoenix	Crafts	268.68	Amex
+2012-12-31	16:53	Houston	Pet Supplies	20.92	Visa
+2012-12-31	16:54	Charlotte	Books	283.37	Amex
+2012-12-31	16:54	Riverside	Books	445.05	Cash
+2012-12-31	16:54	Denver	Video Games	17.5	Cash
+2012-12-31	16:54	Columbus	Toys	113.76	Cash
+2012-12-31	16:54	North Las Vegas	DVDs	52.28	Amex
+2012-12-31	16:54	Riverside	DVDs	75.33	Amex
+2012-12-31	16:54	Seattle	Pet Supplies	437.11	Visa
+2012-12-31	16:54	El Paso	Health and Beauty	311.53	Visa
+2012-12-31	16:54	Tulsa	Consumer Electronics	161.24	MasterCard
+2012-12-31	16:54	Toledo	Baby	342.12	Discover
+2012-12-31	16:54	San Diego	CDs	357.92	Cash
+2012-12-31	16:54	Miami	CDs	129.65	Cash
+2012-12-31	16:54	Plano	Baby	252.17	MasterCard
+2012-12-31	16:54	San Jose	Pet Supplies	314.34	Cash
+2012-12-31	16:54	Miami	Computers	293.81	Discover
+2012-12-31	16:54	Detroit	Sporting Goods	310.18	Cash
+2012-12-31	16:54	Fort Wayne	Video Games	414.29	Cash
+2012-12-31	16:54	Garland	Sporting Goods	188.29	Cash
+2012-12-31	16:54	Chicago	Music	450.6	MasterCard
+2012-12-31	16:54	Boston	Health and Beauty	424.74	Discover
+2012-12-31	16:54	Saint Paul	Books	38.39	Cash
+2012-12-31	16:55	Chandler	Music	5.64	MasterCard
+2012-12-31	16:55	Indianapolis	Children's Clothing	260.41	Cash
+2012-12-31	16:55	Washington	Women's Clothing	395.81	Cash
+2012-12-31	16:55	Kansas City	Video Games	412.28	Cash
+2012-12-31	16:55	Boise	Cameras	432.7	Cash
+2012-12-31	16:55	Glendale	Children's Clothing	493.41	Cash
+2012-12-31	16:55	Philadelphia	Baby	374.17	Cash
+2012-12-31	16:55	Milwaukee	Sporting Goods	33.4	MasterCard
+2012-12-31	16:55	Fort Worth	DVDs	113.9	MasterCard
+2012-12-31	16:55	Scottsdale	Baby	297.01	MasterCard
+2012-12-31	16:55	Columbus	Men's Clothing	226.78	Cash
+2012-12-31	16:55	Fort Worth	Toys	91.13	Amex
+2012-12-31	16:55	San Francisco	Video Games	445.36	Visa
+2012-12-31	16:55	Lincoln	Books	338.51	Cash
+2012-12-31	16:55	Reno	Baby	359.83	Cash
+2012-12-31	16:55	Bakersfield	Health and Beauty	349.37	MasterCard
+2012-12-31	16:55	St. Petersburg	Books	375.13	Discover
+2012-12-31	16:55	Indianapolis	Baby	337.15	Visa
+2012-12-31	16:55	San Diego	Children's Clothing	284.68	Visa
+2012-12-31	16:55	Reno	DVDs	135.82	Visa
+2012-12-31	16:55	New York	Crafts	310.93	Amex
+2012-12-31	16:55	Sacramento	DVDs	43.9	Discover
+2012-12-31	16:55	Baltimore	Baby	186.05	Amex
+2012-12-31	16:55	Corpus Christi	DVDs	85.95	MasterCard
+2012-12-31	16:55	Spokane	Video Games	345.61	Cash
+2012-12-31	16:56	Oakland	Men's Clothing	357.32	Cash
+2012-12-31	16:56	Chula Vista	Video Games	85.59	Visa
+2012-12-31	16:56	Colorado Springs	Video Games	275.1	MasterCard
+2012-12-31	16:56	Tulsa	DVDs	388.49	Amex
+2012-12-31	16:56	Detroit	Crafts	17.66	Cash
+2012-12-31	16:56	Tucson	Toys	499.31	Visa
+2012-12-31	16:56	New Orleans	Pet Supplies	121.08	Discover
+2012-12-31	16:56	Charlotte	Baby	219.83	Amex
+2012-12-31	16:56	Irvine	Toys	392.87	Visa
+2012-12-31	16:56	Cleveland	Sporting Goods	235.4	Discover
+2012-12-31	16:56	Lexington	Women's Clothing	444.48	MasterCard
+2012-12-31	16:56	Durham	Computers	369.1	Visa
+2012-12-31	16:56	Corpus Christi	Books	413.46	Cash
+2012-12-31	16:56	Glendale	Garden	382.13	MasterCard
+2012-12-31	16:56	Baltimore	Men's Clothing	68.98	Discover
+2012-12-31	16:56	Philadelphia	Men's Clothing	66.52	Visa
+2012-12-31	16:56	Omaha	Cameras	91.7	Cash
+2012-12-31	16:56	Gilbert	Crafts	144.3	Discover
+2012-12-31	16:56	Irvine	Children's Clothing	341.93	Visa
+2012-12-31	16:56	Baltimore	Crafts	410.36	MasterCard
+2012-12-31	16:56	Durham	Crafts	323.25	MasterCard
+2012-12-31	16:57	Austin	Cameras	8.02	Amex
+2012-12-31	16:57	Dallas	Books	499.82	Amex
+2012-12-31	16:57	Birmingham	DVDs	175.79	Visa
+2012-12-31	16:57	Laredo	Pet Supplies	149.5	Amex
+2012-12-31	16:57	Honolulu	Men's Clothing	231.52	MasterCard
+2012-12-31	16:57	Lexington	Toys	256.72	Discover
+2012-12-31	16:57	Hialeah	Men's Clothing	37.72	Amex
+2012-12-31	16:57	Orlando	Books	412.97	Discover
+2012-12-31	16:57	San Antonio	Men's Clothing	267.62	Visa
+2012-12-31	16:57	Milwaukee	Consumer Electronics	54.97	MasterCard
+2012-12-31	16:57	Bakersfield	Sporting Goods	314.17	Visa
+2012-12-31	16:57	Irvine	Video Games	41.99	Discover
+2012-12-31	16:57	Greensboro	Women's Clothing	481.4	Cash
+2012-12-31	16:57	Charlotte	Pet Supplies	136.54	Cash
+2012-12-31	16:57	Reno	Computers	171.93	Visa
+2012-12-31	16:57	Irvine	Sporting Goods	129.77	Amex
+2012-12-31	16:57	Detroit	Crafts	274.82	Cash
+2012-12-31	16:57	Cleveland	Toys	197.65	Amex
+2012-12-31	16:57	San Antonio	Garden	236.24	Visa
+2012-12-31	16:57	Laredo	Children's Clothing	151.83	Cash
+2012-12-31	16:57	Hialeah	Computers	388.21	Visa
+2012-12-31	16:57	Stockton	Children's Clothing	175.84	Discover
+2012-12-31	16:58	Anchorage	Sporting Goods	395.91	Amex
+2012-12-31	16:58	Portland	Pet Supplies	95.11	Cash
+2012-12-31	16:58	Minneapolis	Computers	80.74	MasterCard
+2012-12-31	16:58	Baltimore	Garden	325.47	Discover
+2012-12-31	16:58	Raleigh	CDs	452.6	Discover
+2012-12-31	16:58	Hialeah	Baby	373.06	MasterCard
+2012-12-31	16:58	Boise	Music	39.69	MasterCard
+2012-12-31	16:58	Reno	Crafts	254.27	Cash
+2012-12-31	16:58	Santa Ana	Books	95.38	MasterCard
+2012-12-31	16:58	Fresno	Health and Beauty	136.84	Amex
+2012-12-31	16:58	Oakland	Consumer Electronics	267.64	Amex
+2012-12-31	16:58	Portland	Toys	262.06	Visa
+2012-12-31	16:58	Boise	Crafts	366.28	Visa
+2012-12-31	16:58	Dallas	Crafts	386.93	Discover
+2012-12-31	16:58	San Bernardino	Books	249.86	Visa
+2012-12-31	16:58	Dallas	Baby	132.16	Visa
+2012-12-31	16:58	Chandler	DVDs	29.02	Visa
+2012-12-31	16:58	Columbus	Women's Clothing	482.94	Discover
+2012-12-31	16:58	Henderson	CDs	428.96	Cash
+2012-12-31	16:58	Arlington	Crafts	357.85	Visa
+2012-12-31	16:58	Cincinnati	Cameras	141.82	Amex
+2012-12-31	16:58	Plano	Computers	176.24	Visa
+2012-12-31	16:58	Jersey City	Computers	236.47	Cash
+2012-12-31	16:58	San Francisco	Men's Clothing	129.89	Cash
+2012-12-31	16:59	Aurora	Garden	495.22	Amex
+2012-12-31	16:59	Tampa	Men's Clothing	42.18	MasterCard
+2012-12-31	16:59	Louisville	Consumer Electronics	235.75	Cash
+2012-12-31	16:59	Garland	Garden	229.38	Amex
+2012-12-31	16:59	Lincoln	Health and Beauty	352.53	Amex
+2012-12-31	16:59	Lubbock	Video Games	436.35	Visa
+2012-12-31	16:59	Virginia Beach	Music	378.57	MasterCard
+2012-12-31	16:59	Reno	Sporting Goods	492.33	Discover
+2012-12-31	16:59	Portland	Children's Clothing	312.12	MasterCard
+2012-12-31	16:59	Indianapolis	Crafts	478.02	MasterCard
+2012-12-31	16:59	Chicago	Books	287.46	Cash
+2012-12-31	16:59	Charlotte	Crafts	61.39	Visa
+2012-12-31	16:59	Rochester	Crafts	484.63	Visa
+2012-12-31	16:59	Riverside	Baby	378.55	MasterCard
+2012-12-31	16:59	Albuquerque	Sporting Goods	420.98	Discover
+2012-12-31	16:59	Arlington	Video Games	418.61	Discover
+2012-12-31	16:59	San Jose	Children's Clothing	102.54	Discover
+2012-12-31	16:59	Houston	DVDs	169.82	Cash
+2012-12-31	16:59	Anchorage	Books	297.78	MasterCard
+2012-12-31	16:59	Omaha	Video Games	44.39	Visa
+2012-12-31	16:59	Boise	Computers	209.31	MasterCard
+2012-12-31	17:00	Cleveland	Women's Clothing	205	Amex
+2012-12-31	17:00	Tampa	DVDs	469.03	Amex
+2012-12-31	17:00	Boise	Sporting Goods	400.96	Discover
+2012-12-31	17:00	San Diego	Music	177.36	Amex
+2012-12-31	17:00	Riverside	Computers	161.66	Visa
+2012-12-31	17:00	Baton Rouge	Baby	134.13	Discover
+2012-12-31	17:00	Chesapeake	Computers	184.72	Discover
+2012-12-31	17:00	Spokane	Crafts	438.57	Discover
+2012-12-31	17:00	Santa Ana	Video Games	495.18	Discover
+2012-12-31	17:00	Washington	Men's Clothing	315.12	Cash
+2012-12-31	17:00	Norfolk	Garden	160.57	Cash
+2012-12-31	17:00	Honolulu	Sporting Goods	211.68	Cash
+2012-12-31	17:00	Laredo	Pet Supplies	447.22	Amex
+2012-12-31	17:00	Pittsburgh	Pet Supplies	142.87	Discover
+2012-12-31	17:00	Baltimore	Music	253.22	Discover
+2012-12-31	17:00	San Jose	Music	393.69	Amex
+2012-12-31	17:00	Arlington	Women's Clothing	372.21	Cash
+2012-12-31	17:00	Boston	Toys	24.58	Cash
+2012-12-31	17:00	Indianapolis	Garden	294.88	Visa
+2012-12-31	17:00	Arlington	Men's Clothing	413.11	Cash
+2012-12-31	17:00	Rochester	Garden	91.1	Discover
+2012-12-31	17:00	Chesapeake	Consumer Electronics	468.34	Cash
+2012-12-31	17:00	Stockton	Health and Beauty	125.58	MasterCard
+2012-12-31	17:01	Hialeah	Garden	332.92	Visa
+2012-12-31	17:01	Toledo	Pet Supplies	489.06	Discover
+2012-12-31	17:01	Rochester	Women's Clothing	242.25	Discover
+2012-12-31	17:01	Boise	Health and Beauty	251.51	Discover
+2012-12-31	17:01	Portland	Children's Clothing	124.86	Discover
+2012-12-31	17:01	Winston–Salem	Toys	428.91	Discover
+2012-12-31	17:01	Baton Rouge	Music	249.23	Visa
+2012-12-31	17:01	Baltimore	Women's Clothing	300.61	Visa
+2012-12-31	17:01	Albuquerque	Men's Clothing	243.39	MasterCard
+2012-12-31	17:01	Wichita	Music	471.6	Visa
+2012-12-31	17:01	Fort Wayne	Crafts	20.74	Amex
+2012-12-31	17:01	Chula Vista	Health and Beauty	428.1	Amex
+2012-12-31	17:01	St. Louis	Music	269.05	MasterCard
+2012-12-31	17:01	San Diego	Crafts	422.24	Discover
+2012-12-31	17:01	Oakland	Consumer Electronics	73.47	MasterCard
+2012-12-31	17:01	Dallas	Toys	199.09	Amex
+2012-12-31	17:01	Denver	Consumer Electronics	174.43	Discover
+2012-12-31	17:01	Garland	Consumer Electronics	304.89	Discover
+2012-12-31	17:01	Richmond	Men's Clothing	472.7	Amex
+2012-12-31	17:01	Omaha	CDs	22.28	Cash
+2012-12-31	17:01	Boise	Cameras	156.54	Cash
+2012-12-31	17:02	Austin	DVDs	109.98	MasterCard
+2012-12-31	17:02	Toledo	Women's Clothing	95.65	MasterCard
+2012-12-31	17:02	Plano	Health and Beauty	106.4	Visa
+2012-12-31	17:02	Anchorage	Sporting Goods	376.05	MasterCard
+2012-12-31	17:02	North Las Vegas	Books	402.94	Amex
+2012-12-31	17:02	Honolulu	DVDs	469.83	Amex
+2012-12-31	17:02	Baltimore	DVDs	20.64	Cash
+2012-12-31	17:02	Phoenix	Pet Supplies	314.91	Cash
+2012-12-31	17:02	Jersey City	Garden	488.99	Cash
+2012-12-31	17:02	San Jose	Books	246.63	MasterCard
+2012-12-31	17:02	Tucson	Music	169.32	Discover
+2012-12-31	17:02	Louisville	Sporting Goods	354.77	MasterCard
+2012-12-31	17:02	Irving	Books	102.8	Amex
+2012-12-31	17:02	Houston	Garden	193.53	Cash
+2012-12-31	17:02	Orlando	Men's Clothing	332.61	Visa
+2012-12-31	17:02	El Paso	Cameras	157.43	Visa
+2012-12-31	17:02	Madison	Health and Beauty	66.74	Discover
+2012-12-31	17:02	Tucson	Pet Supplies	124.25	MasterCard
+2012-12-31	17:02	Baltimore	Baby	165.81	Cash
+2012-12-31	17:02	Aurora	Cameras	259.79	Cash
+2012-12-31	17:02	Long Beach	Consumer Electronics	230.23	Cash
+2012-12-31	17:02	Gilbert	Toys	107.72	MasterCard
+2012-12-31	17:02	Nashville	CDs	273.74	Visa
+2012-12-31	17:02	Riverside	Video Games	228.18	Discover
+2012-12-31	17:02	Fort Wayne	Consumer Electronics	116.92	Cash
+2012-12-31	17:03	Corpus Christi	Computers	188.19	Cash
+2012-12-31	17:03	San Diego	Men's Clothing	229.73	Discover
+2012-12-31	17:03	Baltimore	Consumer Electronics	333.26	Cash
+2012-12-31	17:03	Raleigh	DVDs	264.99	MasterCard
+2012-12-31	17:03	Garland	Computers	57.56	Visa
+2012-12-31	17:03	Charlotte	Garden	476.14	Visa
+2012-12-31	17:03	Jersey City	Music	192.5	Amex
+2012-12-31	17:03	Chula Vista	DVDs	212.2	Amex
+2012-12-31	17:03	Spokane	Computers	117.44	Discover
+2012-12-31	17:03	Boston	Baby	114.04	MasterCard
+2012-12-31	17:03	Spokane	Women's Clothing	74.86	MasterCard
+2012-12-31	17:03	Tulsa	Cameras	132.7	MasterCard
+2012-12-31	17:03	Kansas City	DVDs	376.05	MasterCard
+2012-12-31	17:03	San Francisco	Cameras	193.34	Amex
+2012-12-31	17:03	North Las Vegas	Video Games	268.71	Discover
+2012-12-31	17:03	San Diego	Toys	122.23	MasterCard
+2012-12-31	17:03	Wichita	CDs	125.03	Visa
+2012-12-31	17:03	Lexington	Children's Clothing	82.59	Amex
+2012-12-31	17:03	Milwaukee	Video Games	36.75	Visa
+2012-12-31	17:03	Oklahoma City	Consumer Electronics	471	Discover
+2012-12-31	17:04	Milwaukee	Children's Clothing	208.49	Cash
+2012-12-31	17:04	Bakersfield	Sporting Goods	465.43	Cash
+2012-12-31	17:04	Milwaukee	DVDs	204.64	Discover
+2012-12-31	17:04	San Jose	Children's Clothing	152.54	Cash
+2012-12-31	17:04	San Antonio	Crafts	481.26	Discover
+2012-12-31	17:04	Irving	CDs	193.78	Cash
+2012-12-31	17:04	Chandler	Sporting Goods	277.74	Discover
+2012-12-31	17:04	Anchorage	Baby	29.63	Amex
+2012-12-31	17:04	St. Louis	DVDs	335.8	MasterCard
+2012-12-31	17:04	Minneapolis	Cameras	367.16	Cash
+2012-12-31	17:04	Atlanta	Video Games	395.59	Visa
+2012-12-31	17:04	Tulsa	DVDs	304.96	MasterCard
+2012-12-31	17:04	Laredo	Garden	38.9	MasterCard
+2012-12-31	17:04	New York	CDs	4.35	Discover
+2012-12-31	17:04	Hialeah	Women's Clothing	22.21	Amex
+2012-12-31	17:04	Omaha	DVDs	292.51	Cash
+2012-12-31	17:04	Pittsburgh	Consumer Electronics	227.63	Cash
+2012-12-31	17:04	Lubbock	Cameras	119.28	Visa
+2012-12-31	17:04	Honolulu	Cameras	80.67	MasterCard
+2012-12-31	17:05	Buffalo	Garden	348.35	Cash
+2012-12-31	17:05	Riverside	Crafts	144.35	MasterCard
+2012-12-31	17:05	Cleveland	Men's Clothing	393.97	MasterCard
+2012-12-31	17:05	Milwaukee	Men's Clothing	439.4	Visa
+2012-12-31	17:05	Nashville	Garden	275.38	Amex
+2012-12-31	17:05	Anaheim	Computers	45.02	MasterCard
+2012-12-31	17:05	Chula Vista	Garden	345.08	Amex
+2012-12-31	17:05	Winston–Salem	Video Games	202.32	Cash
+2012-12-31	17:05	Baton Rouge	Sporting Goods	366.37	MasterCard
+2012-12-31	17:05	Nashville	Health and Beauty	387.35	MasterCard
+2012-12-31	17:05	Fresno	Toys	259.15	MasterCard
+2012-12-31	17:05	Lincoln	Video Games	112.27	Amex
+2012-12-31	17:05	Indianapolis	Computers	485.35	Cash
+2012-12-31	17:05	Indianapolis	Crafts	190.76	Discover
+2012-12-31	17:05	Hialeah	Cameras	398.42	Visa
+2012-12-31	17:05	Miami	Cameras	88.02	Discover
+2012-12-31	17:05	Fort Worth	Children's Clothing	271.5	Cash
+2012-12-31	17:05	Louisville	Health and Beauty	26.25	Visa
+2012-12-31	17:05	Chandler	Consumer Electronics	107.41	Visa
+2012-12-31	17:06	Wichita	Music	319.67	MasterCard
+2012-12-31	17:06	Anchorage	Baby	262.6	Visa
+2012-12-31	17:06	Anaheim	Books	438.75	Amex
+2012-12-31	17:06	Plano	DVDs	331.73	Cash
+2012-12-31	17:06	Irving	Video Games	436.75	Visa
+2012-12-31	17:06	Irving	Pet Supplies	325.3	Discover
+2012-12-31	17:06	Chesapeake	Baby	293.77	Amex
+2012-12-31	17:06	Pittsburgh	Toys	409.43	Discover
+2012-12-31	17:06	Richmond	Cameras	22.91	Cash
+2012-12-31	17:06	Albuquerque	DVDs	243.91	Amex
+2012-12-31	17:06	Raleigh	Baby	297.95	Cash
+2012-12-31	17:06	Madison	Video Games	458.49	Discover
+2012-12-31	17:06	Albuquerque	Toys	379.47	Discover
+2012-12-31	17:06	Irvine	Baby	469.37	MasterCard
+2012-12-31	17:06	San Bernardino	Books	214.33	Discover
+2012-12-31	17:06	Madison	CDs	13.65	Cash
+2012-12-31	17:06	Reno	Books	72.8	MasterCard
+2012-12-31	17:06	Newark	Pet Supplies	113.39	Visa
+2012-12-31	17:06	New Orleans	CDs	262.84	Visa
+2012-12-31	17:07	Lubbock	Books	281.44	Visa
+2012-12-31	17:07	Cleveland	Men's Clothing	410.75	Amex
+2012-12-31	17:07	San Francisco	Men's Clothing	114.2	Cash
+2012-12-31	17:07	Honolulu	Garden	52.81	Amex
+2012-12-31	17:07	Indianapolis	Pet Supplies	59.16	Discover
+2012-12-31	17:07	Oakland	Baby	9.71	MasterCard
+2012-12-31	17:07	Lincoln	Computers	402.82	Cash
+2012-12-31	17:07	Las Vegas	Men's Clothing	398.95	Visa
+2012-12-31	17:07	Raleigh	Baby	323.5	MasterCard
+2012-12-31	17:07	Oakland	Computers	180.42	Cash
+2012-12-31	17:07	Los Angeles	Toys	24.87	Amex
+2012-12-31	17:07	Dallas	CDs	346.95	Cash
+2012-12-31	17:07	Irving	Books	315.72	Amex
+2012-12-31	17:07	Arlington	Computers	484.61	Discover
+2012-12-31	17:07	Gilbert	Toys	484.73	Discover
+2012-12-31	17:07	Kansas City	Cameras	38.11	Cash
+2012-12-31	17:07	Irving	Music	325.61	Amex
+2012-12-31	17:07	Boise	Pet Supplies	360.46	MasterCard
+2012-12-31	17:08	Lexington	Books	316.32	Visa
+2012-12-31	17:08	Boston	Health and Beauty	338.51	MasterCard
+2012-12-31	17:08	Louisville	DVDs	113.64	Discover
+2012-12-31	17:08	Greensboro	Crafts	497.93	Amex
+2012-12-31	17:08	Lubbock	DVDs	279.48	Discover
+2012-12-31	17:08	Portland	Music	129.61	MasterCard
+2012-12-31	17:08	Corpus Christi	Consumer Electronics	65.93	Amex
+2012-12-31	17:08	Milwaukee	Music	116.39	Cash
+2012-12-31	17:08	Birmingham	Toys	154.77	Discover
+2012-12-31	17:08	Laredo	Toys	455.56	Discover
+2012-12-31	17:08	Oakland	Video Games	115.01	Cash
+2012-12-31	17:08	Saint Paul	Crafts	203.89	Visa
+2012-12-31	17:08	Corpus Christi	Music	220.84	Amex
+2012-12-31	17:08	Birmingham	CDs	144.43	Amex
+2012-12-31	17:08	Mesa	Garden	448.08	MasterCard
+2012-12-31	17:08	Mesa	CDs	357.45	Amex
+2012-12-31	17:08	Lincoln	Crafts	432.81	Cash
+2012-12-31	17:08	Norfolk	Children's Clothing	146.58	MasterCard
+2012-12-31	17:08	Tampa	Women's Clothing	87.89	Amex
+2012-12-31	17:08	Irving	Music	475.96	Discover
+2012-12-31	17:08	Madison	Computers	361.7	Visa
+2012-12-31	17:08	Indianapolis	Garden	459.23	Visa
+2012-12-31	17:08	San Diego	Men's Clothing	53.66	Cash
+2012-12-31	17:09	Reno	Children's Clothing	411.43	Discover
+2012-12-31	17:09	New York	Children's Clothing	67.83	Visa
+2012-12-31	17:09	Denver	CDs	96.23	Visa
+2012-12-31	17:09	Memphis	Pet Supplies	76.12	Discover
+2012-12-31	17:09	Saint Paul	Video Games	420.07	Visa
+2012-12-31	17:09	Fort Worth	Sporting Goods	418.42	Visa
+2012-12-31	17:09	Gilbert	Music	220.41	Discover
+2012-12-31	17:09	Richmond	Men's Clothing	33.07	MasterCard
+2012-12-31	17:09	Austin	Video Games	42.88	Discover
+2012-12-31	17:09	Stockton	Baby	47.21	Cash
+2012-12-31	17:09	Las Vegas	Video Games	36.47	Cash
+2012-12-31	17:09	Boise	DVDs	204.48	Amex
+2012-12-31	17:09	Winston–Salem	Books	141.45	Amex
+2012-12-31	17:09	Garland	Video Games	255.65	Discover
+2012-12-31	17:09	Houston	Cameras	170.38	MasterCard
+2012-12-31	17:09	Chandler	Crafts	443.87	Discover
+2012-12-31	17:09	Irvine	Books	237.28	Discover
+2012-12-31	17:09	Washington	DVDs	242.96	Cash
+2012-12-31	17:09	Buffalo	Cameras	284.41	Discover
+2012-12-31	17:10	Memphis	Books	345.04	MasterCard
+2012-12-31	17:10	Omaha	Cameras	101.7	Cash
+2012-12-31	17:10	Houston	Crafts	173.08	MasterCard
+2012-12-31	17:10	Lincoln	Cameras	45.78	Cash
+2012-12-31	17:10	Indianapolis	Music	13.01	Discover
+2012-12-31	17:10	Jersey City	Video Games	160.78	Discover
+2012-12-31	17:10	Boise	Computers	399.93	MasterCard
+2012-12-31	17:10	Tampa	Toys	219.93	Visa
+2012-12-31	17:10	San Antonio	DVDs	47.22	MasterCard
+2012-12-31	17:10	Charlotte	Computers	483.44	Amex
+2012-12-31	17:10	Long Beach	Children's Clothing	180.54	Visa
+2012-12-31	17:10	Oklahoma City	DVDs	399.24	Visa
+2012-12-31	17:10	Anaheim	Music	167	Cash
+2012-12-31	17:10	Chandler	Music	415.03	Amex
+2012-12-31	17:10	North Las Vegas	Crafts	286.24	MasterCard
+2012-12-31	17:10	Reno	Men's Clothing	247.01	Discover
+2012-12-31	17:10	Chesapeake	Children's Clothing	209.61	Discover
+2012-12-31	17:10	Laredo	DVDs	301.67	MasterCard
+2012-12-31	17:10	Bakersfield	Pet Supplies	384.01	Cash
+2012-12-31	17:11	Buffalo	Music	44.7	MasterCard
+2012-12-31	17:11	Virginia Beach	Crafts	366.06	MasterCard
+2012-12-31	17:11	San Antonio	Women's Clothing	438.4	Visa
+2012-12-31	17:11	Chula Vista	Children's Clothing	83.76	Discover
+2012-12-31	17:11	Rochester	DVDs	248.88	Amex
+2012-12-31	17:11	Chicago	CDs	48.57	MasterCard
+2012-12-31	17:11	Corpus Christi	Health and Beauty	347.24	MasterCard
+2012-12-31	17:11	Sacramento	Cameras	166.77	Cash
+2012-12-31	17:11	Baton Rouge	Crafts	310.9	Visa
+2012-12-31	17:11	Charlotte	Men's Clothing	273.06	Amex
+2012-12-31	17:11	Orlando	Garden	299.74	Discover
+2012-12-31	17:11	San Jose	Music	295.28	Discover
+2012-12-31	17:11	Fort Wayne	Pet Supplies	419.52	Discover
+2012-12-31	17:11	Miami	DVDs	418.81	MasterCard
+2012-12-31	17:11	Irvine	Sporting Goods	265.48	Discover
+2012-12-31	17:11	Portland	CDs	464.54	MasterCard
+2012-12-31	17:11	Greensboro	Toys	223.31	Amex
+2012-12-31	17:11	Corpus Christi	Consumer Electronics	299.87	Discover
+2012-12-31	17:11	St. Louis	Toys	138.44	Discover
+2012-12-31	17:11	Jacksonville	Crafts	89.08	Discover
+2012-12-31	17:11	Lincoln	DVDs	192.02	Visa
+2012-12-31	17:11	Phoenix	Computers	374	Discover
+2012-12-31	17:12	San Jose	Garden	121.22	MasterCard
+2012-12-31	17:12	Lincoln	Books	219.75	MasterCard
+2012-12-31	17:12	Phoenix	Children's Clothing	496.53	Amex
+2012-12-31	17:12	Chula Vista	Crafts	219.74	Amex
+2012-12-31	17:12	Washington	DVDs	230.05	Visa
+2012-12-31	17:12	Las Vegas	Men's Clothing	441.46	Cash
+2012-12-31	17:12	Toledo	Sporting Goods	7.75	Cash
+2012-12-31	17:12	Austin	Children's Clothing	232.81	Cash
+2012-12-31	17:12	Milwaukee	Pet Supplies	218.68	Amex
+2012-12-31	17:12	Fresno	Pet Supplies	267.96	Visa
+2012-12-31	17:12	Norfolk	Crafts	99.12	Discover
+2012-12-31	17:12	Oakland	Men's Clothing	130.46	Visa
+2012-12-31	17:12	Boise	DVDs	479.91	MasterCard
+2012-12-31	17:12	Oklahoma City	Pet Supplies	204.67	Discover
+2012-12-31	17:12	St. Louis	Consumer Electronics	247.25	Visa
+2012-12-31	17:12	Nashville	Crafts	363.72	Visa
+2012-12-31	17:12	Omaha	Pet Supplies	297.63	Discover
+2012-12-31	17:12	Portland	Sporting Goods	19.96	Visa
+2012-12-31	17:12	Madison	Crafts	445.64	Amex
+2012-12-31	17:12	Boise	Crafts	85.79	Discover
+2012-12-31	17:12	Birmingham	Consumer Electronics	353.6	MasterCard
+2012-12-31	17:13	Fresno	Consumer Electronics	73.79	Discover
+2012-12-31	17:13	Washington	Pet Supplies	285.15	Discover
+2012-12-31	17:13	Garland	Cameras	459.57	MasterCard
+2012-12-31	17:13	Phoenix	Sporting Goods	11.95	Visa
+2012-12-31	17:13	New York	Health and Beauty	112.42	MasterCard
+2012-12-31	17:13	Jersey City	Sporting Goods	441.81	Cash
+2012-12-31	17:13	San Antonio	CDs	73.88	MasterCard
+2012-12-31	17:13	Irvine	Consumer Electronics	50.58	MasterCard
+2012-12-31	17:13	Sacramento	Cameras	357.12	MasterCard
+2012-12-31	17:13	Austin	Garden	186.16	Discover
+2012-12-31	17:13	Minneapolis	Men's Clothing	466.48	Amex
+2012-12-31	17:13	Houston	Video Games	263.74	Visa
+2012-12-31	17:13	Cleveland	Music	315.9	Visa
+2012-12-31	17:13	New Orleans	Garden	419.03	Cash
+2012-12-31	17:13	Phoenix	Books	424.79	Cash
+2012-12-31	17:13	Greensboro	Computers	123.22	Cash
+2012-12-31	17:13	Richmond	Health and Beauty	377.35	Cash
+2012-12-31	17:13	Oklahoma City	Women's Clothing	6.5	Cash
+2012-12-31	17:13	Saint Paul	Sporting Goods	25.52	Cash
+2012-12-31	17:13	Dallas	Consumer Electronics	390.95	Amex
+2012-12-31	17:13	Portland	Garden	276.2	Discover
+2012-12-31	17:13	San Antonio	Health and Beauty	0.5	Cash
+2012-12-31	17:13	Sacramento	Books	422.94	Visa
+2012-12-31	17:13	Las Vegas	Consumer Electronics	481.03	MasterCard
+2012-12-31	17:13	Henderson	Sporting Goods	371.53	Cash
+2012-12-31	17:14	Pittsburgh	Baby	195.66	MasterCard
+2012-12-31	17:14	Columbus	Toys	476.27	MasterCard
+2012-12-31	17:14	Toledo	Computers	117.2	Visa
+2012-12-31	17:14	Bakersfield	Cameras	201.53	Visa
+2012-12-31	17:14	Richmond	Crafts	243.57	Discover
+2012-12-31	17:14	Corpus Christi	Cameras	36.16	Amex
+2012-12-31	17:14	Baton Rouge	Computers	47.15	Discover
+2012-12-31	17:14	Riverside	Toys	104.52	Cash
+2012-12-31	17:14	Boston	Children's Clothing	252.66	Amex
+2012-12-31	17:14	Laredo	Sporting Goods	429.67	Cash
+2012-12-31	17:14	Virginia Beach	Baby	29.35	MasterCard
+2012-12-31	17:14	Wichita	Garden	2.84	MasterCard
+2012-12-31	17:14	Austin	Pet Supplies	431.62	MasterCard
+2012-12-31	17:14	Baton Rouge	Books	155.33	Discover
+2012-12-31	17:14	Tulsa	Music	416.03	Amex
+2012-12-31	17:14	Anchorage	Men's Clothing	482.59	Amex
+2012-12-31	17:14	Lubbock	Toys	302.45	MasterCard
+2012-12-31	17:14	Dallas	CDs	83.23	Cash
+2012-12-31	17:14	Colorado Springs	Sporting Goods	176.09	Visa
+2012-12-31	17:14	Spokane	Health and Beauty	116.07	Discover
+2012-12-31	17:14	San Francisco	CDs	101.61	Amex
+2012-12-31	17:14	Hialeah	Men's Clothing	188.42	Amex
+2012-12-31	17:14	Greensboro	DVDs	386.35	Discover
+2012-12-31	17:15	Memphis	Baby	99.32	Cash
+2012-12-31	17:15	Dallas	DVDs	158.67	Visa
+2012-12-31	17:15	Baton Rouge	Consumer Electronics	92.67	Amex
+2012-12-31	17:15	Laredo	CDs	381.58	Amex
+2012-12-31	17:15	Chula Vista	Toys	314.55	Cash
+2012-12-31	17:15	San Jose	Computers	261.76	Visa
+2012-12-31	17:15	Las Vegas	Toys	294.88	Amex
+2012-12-31	17:15	Kansas City	Women's Clothing	17.19	MasterCard
+2012-12-31	17:15	Boston	Health and Beauty	221.05	Visa
+2012-12-31	17:15	North Las Vegas	Music	101.67	Visa
+2012-12-31	17:15	Long Beach	Women's Clothing	75.43	Discover
+2012-12-31	17:15	Indianapolis	Cameras	404.3	Cash
+2012-12-31	17:15	Portland	Sporting Goods	376	Cash
+2012-12-31	17:15	San Francisco	Men's Clothing	73.52	Cash
+2012-12-31	17:15	Columbus	Pet Supplies	105.09	Visa
+2012-12-31	17:15	Lexington	Men's Clothing	473.36	Visa
+2012-12-31	17:15	New Orleans	CDs	369.79	MasterCard
+2012-12-31	17:15	Nashville	Women's Clothing	258.4	Discover
+2012-12-31	17:15	Scottsdale	Books	199.71	Amex
+2012-12-31	17:15	Plano	CDs	180.25	Amex
+2012-12-31	17:15	Riverside	Crafts	258.92	Visa
+2012-12-31	17:15	Austin	Women's Clothing	372.19	Amex
+2012-12-31	17:16	Irving	Health and Beauty	119.37	Visa
+2012-12-31	17:16	North Las Vegas	Books	193.96	Discover
+2012-12-31	17:16	St. Petersburg	CDs	251.06	Discover
+2012-12-31	17:16	Greensboro	Baby	346.07	Amex
+2012-12-31	17:16	Phoenix	Music	301.37	MasterCard
+2012-12-31	17:16	Rochester	Toys	265.8	Discover
+2012-12-31	17:16	Fort Worth	Women's Clothing	294.55	Cash
+2012-12-31	17:16	Los Angeles	Men's Clothing	416.49	Amex
+2012-12-31	17:16	Dallas	Women's Clothing	456.66	MasterCard
+2012-12-31	17:16	Lubbock	CDs	132.62	Discover
+2012-12-31	17:16	Cleveland	Consumer Electronics	490.13	MasterCard
+2012-12-31	17:16	Norfolk	Toys	62.28	Cash
+2012-12-31	17:16	Orlando	Health and Beauty	380.46	MasterCard
+2012-12-31	17:16	Hialeah	Baby	127.52	Visa
+2012-12-31	17:16	Las Vegas	Women's Clothing	119.11	Cash
+2012-12-31	17:16	Scottsdale	Baby	78.98	Cash
+2012-12-31	17:16	Kansas City	Men's Clothing	264.68	Cash
+2012-12-31	17:16	New York	Garden	202.47	MasterCard
+2012-12-31	17:16	Dallas	CDs	254.24	Amex
+2012-12-31	17:16	Winston–Salem	Books	65.07	MasterCard
+2012-12-31	17:16	Raleigh	Consumer Electronics	428.2	Cash
+2012-12-31	17:16	Garland	Sporting Goods	250.06	MasterCard
+2012-12-31	17:16	Denver	Cameras	309.1	Discover
+2012-12-31	17:16	Baton Rouge	Music	313.89	Amex
+2012-12-31	17:16	Irvine	Women's Clothing	208.57	Amex
+2012-12-31	17:17	Indianapolis	Sporting Goods	65.65	MasterCard
+2012-12-31	17:17	Wichita	Men's Clothing	70.45	Visa
+2012-12-31	17:17	Columbus	CDs	210.81	MasterCard
+2012-12-31	17:17	Las Vegas	Men's Clothing	307.4	Amex
+2012-12-31	17:17	Chandler	Sporting Goods	264	Amex
+2012-12-31	17:17	Baton Rouge	Consumer Electronics	207.55	Cash
+2012-12-31	17:17	Scottsdale	Consumer Electronics	93.01	MasterCard
+2012-12-31	17:17	Minneapolis	Women's Clothing	312.95	MasterCard
+2012-12-31	17:17	Toledo	Consumer Electronics	78.1	MasterCard
+2012-12-31	17:17	Indianapolis	Toys	9.25	Cash
+2012-12-31	17:17	Kansas City	Men's Clothing	299.82	Discover
+2012-12-31	17:17	Arlington	Men's Clothing	201.61	Discover
+2012-12-31	17:17	Glendale	Computers	213.87	Visa
+2012-12-31	17:17	Fresno	Video Games	129.26	Amex
+2012-12-31	17:17	Durham	DVDs	407.27	Visa
+2012-12-31	17:17	Baton Rouge	Toys	115.15	Cash
+2012-12-31	17:17	Louisville	Sporting Goods	35.44	MasterCard
+2012-12-31	17:17	Portland	Books	266.5	Cash
+2012-12-31	17:17	Riverside	Consumer Electronics	236.18	Cash
+2012-12-31	17:17	Sacramento	Toys	318.08	Cash
+2012-12-31	17:18	Denver	Video Games	221.76	Discover
+2012-12-31	17:18	Houston	Consumer Electronics	41.21	Amex
+2012-12-31	17:18	Louisville	Baby	318.12	MasterCard
+2012-12-31	17:18	Riverside	Children's Clothing	459.41	Cash
+2012-12-31	17:18	New Orleans	DVDs	481.29	Visa
+2012-12-31	17:18	Birmingham	Garden	463.66	Visa
+2012-12-31	17:18	New Orleans	Toys	420.87	Visa
+2012-12-31	17:18	Dallas	DVDs	92.16	Visa
+2012-12-31	17:18	Madison	Books	90.99	MasterCard
+2012-12-31	17:18	Lubbock	Computers	121.46	Visa
+2012-12-31	17:18	Minneapolis	Pet Supplies	393.87	Cash
+2012-12-31	17:18	Stockton	Baby	281.27	Discover
+2012-12-31	17:18	Sacramento	Garden	379.76	Amex
+2012-12-31	17:18	El Paso	Toys	224.07	Cash
+2012-12-31	17:18	Arlington	Cameras	281.83	Discover
+2012-12-31	17:18	St. Petersburg	Women's Clothing	317.41	Amex
+2012-12-31	17:18	Lexington	Computers	116.47	Discover
+2012-12-31	17:18	Cincinnati	Pet Supplies	215.22	MasterCard
+2012-12-31	17:18	Colorado Springs	Cameras	192.89	Discover
+2012-12-31	17:19	Las Vegas	Crafts	232.13	Amex
+2012-12-31	17:19	Madison	Sporting Goods	468.86	Cash
+2012-12-31	17:19	Cleveland	Children's Clothing	415.17	Amex
+2012-12-31	17:19	Washington	CDs	19.52	Cash
+2012-12-31	17:19	Spokane	Computers	58.73	Visa
+2012-12-31	17:19	Durham	DVDs	252.28	Amex
+2012-12-31	17:19	Gilbert	Music	456.29	Visa
+2012-12-31	17:19	Sacramento	Children's Clothing	191.61	Cash
+2012-12-31	17:19	Wichita	Men's Clothing	166.1	Cash
+2012-12-31	17:19	St. Louis	Health and Beauty	244.91	Amex
+2012-12-31	17:19	Anchorage	Music	393.69	MasterCard
+2012-12-31	17:19	Orlando	Pet Supplies	105.39	Discover
+2012-12-31	17:19	Atlanta	Baby	379.25	Visa
+2012-12-31	17:19	Fort Worth	Children's Clothing	170.23	Visa
+2012-12-31	17:19	Chicago	Music	426.42	MasterCard
+2012-12-31	17:19	Los Angeles	Crafts	300.75	Amex
+2012-12-31	17:19	New Orleans	Music	323.74	Visa
+2012-12-31	17:19	El Paso	Cameras	460.43	Amex
+2012-12-31	17:19	Tampa	DVDs	289.75	Visa
+2012-12-31	17:19	Oklahoma City	Garden	499.74	Amex
+2012-12-31	17:19	St. Petersburg	Video Games	202.67	Discover
+2012-12-31	17:20	Jacksonville	Health and Beauty	249.13	Cash
+2012-12-31	17:20	Spokane	Books	238.25	Amex
+2012-12-31	17:20	Saint Paul	Crafts	151.29	Visa
+2012-12-31	17:20	Los Angeles	Sporting Goods	240.87	Amex
+2012-12-31	17:20	Winston–Salem	CDs	28.17	MasterCard
+2012-12-31	17:20	Phoenix	Video Games	155.67	Amex
+2012-12-31	17:20	Kansas City	Cameras	260.74	Cash
+2012-12-31	17:20	Honolulu	Children's Clothing	67.92	Discover
+2012-12-31	17:20	El Paso	Health and Beauty	234.93	Amex
+2012-12-31	17:20	Stockton	Books	11.42	MasterCard
+2012-12-31	17:20	Durham	Sporting Goods	345.69	MasterCard
+2012-12-31	17:20	Washington	DVDs	78.87	Cash
+2012-12-31	17:20	Tucson	DVDs	340.9	Amex
+2012-12-31	17:20	Madison	DVDs	49.35	MasterCard
+2012-12-31	17:20	Anchorage	Health and Beauty	37.68	MasterCard
+2012-12-31	17:20	Tulsa	Crafts	55.76	Amex
+2012-12-31	17:20	Richmond	Computers	177.18	Amex
+2012-12-31	17:20	Irving	Video Games	417.23	MasterCard
+2012-12-31	17:20	Los Angeles	Books	46.94	Cash
+2012-12-31	17:20	San Diego	Crafts	439.25	MasterCard
+2012-12-31	17:20	St. Louis	DVDs	446.75	Cash
+2012-12-31	17:20	Richmond	Music	317.7	MasterCard
+2012-12-31	17:20	Las Vegas	Baby	283.19	Visa
+2012-12-31	17:20	Glendale	Men's Clothing	364.94	Amex
+2012-12-31	17:21	Boise	Toys	346.36	Discover
+2012-12-31	17:21	Long Beach	Toys	417.4	Discover
+2012-12-31	17:21	Birmingham	Computers	496.57	Visa
+2012-12-31	17:21	Kansas City	Men's Clothing	420.75	Visa
+2012-12-31	17:21	San Jose	Baby	43.6	Visa
+2012-12-31	17:21	Aurora	Music	357.45	Discover
+2012-12-31	17:21	Tampa	Video Games	354.43	Amex
+2012-12-31	17:21	Fremont	Health and Beauty	379.26	Discover
+2012-12-31	17:21	Scottsdale	Toys	122.04	Amex
+2012-12-31	17:21	Arlington	Music	110.5	MasterCard
+2012-12-31	17:21	Hialeah	Video Games	364.79	MasterCard
+2012-12-31	17:21	Scottsdale	Consumer Electronics	496.04	Visa
+2012-12-31	17:21	Chesapeake	Baby	365.49	Discover
+2012-12-31	17:21	Arlington	CDs	63.56	MasterCard
+2012-12-31	17:21	San Bernardino	Cameras	427.61	Amex
+2012-12-31	17:21	Omaha	Books	412.59	Visa
+2012-12-31	17:21	Las Vegas	Cameras	115.57	Discover
+2012-12-31	17:21	Riverside	Women's Clothing	475.22	Visa
+2012-12-31	17:21	San Francisco	Men's Clothing	306.73	MasterCard
+2012-12-31	17:21	Rochester	Garden	380.03	Discover
+2012-12-31	17:22	Tulsa	Children's Clothing	312.92	Discover
+2012-12-31	17:22	Kansas City	Crafts	350.05	Cash
+2012-12-31	17:22	Lexington	CDs	407.48	MasterCard
+2012-12-31	17:22	Lexington	Sporting Goods	354.25	Discover
+2012-12-31	17:22	Buffalo	Women's Clothing	410.16	Cash
+2012-12-31	17:22	Boise	Men's Clothing	354.44	MasterCard
+2012-12-31	17:22	Honolulu	Children's Clothing	191.13	Discover
+2012-12-31	17:22	Lexington	Video Games	209.89	Visa
+2012-12-31	17:22	Austin	Crafts	287.45	MasterCard
+2012-12-31	17:22	Tulsa	Pet Supplies	55.67	Amex
+2012-12-31	17:22	St. Petersburg	Music	138.34	Cash
+2012-12-31	17:22	Milwaukee	Sporting Goods	85.16	MasterCard
+2012-12-31	17:22	Indianapolis	Baby	174.57	Discover
+2012-12-31	17:22	Spokane	Cameras	65.26	Amex
+2012-12-31	17:22	St. Louis	Consumer Electronics	122.68	Amex
+2012-12-31	17:22	Durham	Garden	169.36	MasterCard
+2012-12-31	17:22	Newark	Cameras	224.02	Visa
+2012-12-31	17:22	San Francisco	DVDs	188	MasterCard
+2012-12-31	17:22	Glendale	Video Games	148.02	Amex
+2012-12-31	17:22	Portland	Garden	1.02	MasterCard
+2012-12-31	17:22	Chicago	Baby	330.44	Cash
+2012-12-31	17:23	Richmond	Computers	459.65	Discover
+2012-12-31	17:23	Houston	Books	169.57	MasterCard
+2012-12-31	17:23	El Paso	Crafts	378.86	Discover
+2012-12-31	17:23	Madison	Children's Clothing	230.86	Discover
+2012-12-31	17:23	Philadelphia	Children's Clothing	260.83	Amex
+2012-12-31	17:23	Saint Paul	Garden	376.39	Amex
+2012-12-31	17:23	Milwaukee	Crafts	374.79	Discover
+2012-12-31	17:23	Honolulu	Video Games	135.68	MasterCard
+2012-12-31	17:23	Indianapolis	Baby	83.78	Visa
+2012-12-31	17:23	Henderson	Children's Clothing	110.74	Cash
+2012-12-31	17:23	New York	Computers	273.82	Amex
+2012-12-31	17:23	Gilbert	Computers	21.69	Amex
+2012-12-31	17:23	Reno	Baby	78.38	Visa
+2012-12-31	17:23	Oakland	Consumer Electronics	82.76	Visa
+2012-12-31	17:23	Portland	Women's Clothing	172.19	Visa
+2012-12-31	17:23	Chesapeake	Toys	309.21	MasterCard
+2012-12-31	17:23	Laredo	Books	263.72	Discover
+2012-12-31	17:23	Scottsdale	Women's Clothing	272.35	Cash
+2012-12-31	17:23	Sacramento	Health and Beauty	248.22	MasterCard
+2012-12-31	17:23	Denver	Men's Clothing	33.77	Discover
+2012-12-31	17:23	Chula Vista	Pet Supplies	67.45	Cash
+2012-12-31	17:23	Arlington	Men's Clothing	161.78	Discover
+2012-12-31	17:23	Houston	Video Games	489.02	Amex
+2012-12-31	17:23	Jacksonville	Sporting Goods	463.91	Amex
+2012-12-31	17:23	San Jose	CDs	247.91	Discover
+2012-12-31	17:24	Cleveland	Garden	32.64	Amex
+2012-12-31	17:24	Garland	Pet Supplies	337	MasterCard
+2012-12-31	17:24	Chandler	Computers	46.67	Amex
+2012-12-31	17:24	El Paso	DVDs	284.46	MasterCard
+2012-12-31	17:24	Fort Wayne	Consumer Electronics	302.49	Discover
+2012-12-31	17:24	Boston	Baby	428.38	MasterCard
+2012-12-31	17:24	Virginia Beach	Men's Clothing	137.15	Visa
+2012-12-31	17:24	Chicago	Men's Clothing	148.28	Visa
+2012-12-31	17:24	Newark	Women's Clothing	248.95	Cash
+2012-12-31	17:24	Buffalo	Sporting Goods	321.36	Amex
+2012-12-31	17:24	Sacramento	Computers	53.98	Discover
+2012-12-31	17:24	Santa Ana	Children's Clothing	200.07	Discover
+2012-12-31	17:24	Reno	Computers	11.84	Discover
+2012-12-31	17:24	Birmingham	Health and Beauty	493.54	Amex
+2012-12-31	17:24	Minneapolis	Books	15.98	Cash
+2012-12-31	17:24	Gilbert	Women's Clothing	97.83	Visa
+2012-12-31	17:24	Boston	CDs	145.58	Amex
+2012-12-31	17:24	Spokane	Garden	41.41	Cash
+2012-12-31	17:24	Jacksonville	Video Games	245.08	MasterCard
+2012-12-31	17:24	Baltimore	Video Games	217.74	Visa
+2012-12-31	17:24	Lincoln	Consumer Electronics	266.82	Amex
+2012-12-31	17:24	Hialeah	Music	182.99	Cash
+2012-12-31	17:25	Boston	Garden	259.87	Discover
+2012-12-31	17:25	Gilbert	CDs	491.81	Visa
+2012-12-31	17:25	Las Vegas	Sporting Goods	10.53	Cash
+2012-12-31	17:25	Kansas City	Music	436.89	MasterCard
+2012-12-31	17:25	Omaha	Video Games	323.19	Visa
+2012-12-31	17:25	Minneapolis	Books	227.43	Visa
+2012-12-31	17:25	New York	Women's Clothing	322.85	MasterCard
+2012-12-31	17:25	New Orleans	Garden	250.77	Cash
+2012-12-31	17:25	San Diego	Baby	56.36	MasterCard
+2012-12-31	17:25	Stockton	Computers	83.37	Discover
+2012-12-31	17:25	Boise	Health and Beauty	326.15	Discover
+2012-12-31	17:25	Cincinnati	Baby	56.14	Cash
+2012-12-31	17:25	Tulsa	Sporting Goods	282.88	Amex
+2012-12-31	17:25	Oklahoma City	Consumer Electronics	441.29	Visa
+2012-12-31	17:25	Buffalo	Crafts	183.73	MasterCard
+2012-12-31	17:25	Glendale	Women's Clothing	420.81	MasterCard
+2012-12-31	17:25	Winston–Salem	Sporting Goods	116.03	MasterCard
+2012-12-31	17:25	St. Petersburg	Children's Clothing	242.38	Discover
+2012-12-31	17:25	Oakland	Computers	357.25	Discover
+2012-12-31	17:25	Tulsa	Computers	236.56	Amex
+2012-12-31	17:25	Richmond	CDs	111.46	Cash
+2012-12-31	17:25	Philadelphia	DVDs	437.39	MasterCard
+2012-12-31	17:26	Raleigh	Children's Clothing	404.87	Cash
+2012-12-31	17:26	Reno	Baby	230.13	Discover
+2012-12-31	17:26	Toledo	Computers	295.6	Cash
+2012-12-31	17:26	Memphis	Music	124.89	Discover
+2012-12-31	17:26	Newark	Cameras	192.92	MasterCard
+2012-12-31	17:26	Santa Ana	Consumer Electronics	308.7	Visa
+2012-12-31	17:26	Cincinnati	Children's Clothing	334.1	Amex
+2012-12-31	17:26	Dallas	Baby	1.39	Cash
+2012-12-31	17:26	Baton Rouge	Toys	60.08	Visa
+2012-12-31	17:26	Jersey City	Books	484.18	Discover
+2012-12-31	17:26	Pittsburgh	Men's Clothing	236.84	Discover
+2012-12-31	17:26	Indianapolis	Men's Clothing	239.62	Visa
+2012-12-31	17:26	Garland	Baby	300.87	MasterCard
+2012-12-31	17:26	San Bernardino	Toys	280.04	Discover
+2012-12-31	17:26	Atlanta	DVDs	432.11	Visa
+2012-12-31	17:26	Boise	Computers	474	Amex
+2012-12-31	17:26	El Paso	Toys	14.63	Visa
+2012-12-31	17:26	Oakland	Garden	115.94	Amex
+2012-12-31	17:26	Bakersfield	DVDs	347.16	Cash
+2012-12-31	17:26	Omaha	Men's Clothing	52.47	Amex
+2012-12-31	17:26	Oklahoma City	Baby	6.64	Visa
+2012-12-31	17:26	Orlando	Pet Supplies	435.56	Discover
+2012-12-31	17:26	Durham	Children's Clothing	282.89	MasterCard
+2012-12-31	17:27	Lexington	DVDs	211.15	Discover
+2012-12-31	17:27	Winston–Salem	Women's Clothing	371.54	MasterCard
+2012-12-31	17:27	Arlington	Health and Beauty	22.34	MasterCard
+2012-12-31	17:27	Mesa	Toys	470.75	Amex
+2012-12-31	17:27	El Paso	Crafts	67	Amex
+2012-12-31	17:27	Houston	Children's Clothing	224.8	Cash
+2012-12-31	17:27	Austin	Toys	241.94	Cash
+2012-12-31	17:27	Spokane	Garden	289.2	MasterCard
+2012-12-31	17:27	Fort Wayne	CDs	234.07	MasterCard
+2012-12-31	17:27	Tampa	Pet Supplies	390.49	Discover
+2012-12-31	17:27	Arlington	Video Games	477.44	Discover
+2012-12-31	17:27	Austin	Sporting Goods	229.94	Cash
+2012-12-31	17:27	New Orleans	Sporting Goods	436.43	Visa
+2012-12-31	17:27	Madison	Crafts	243.69	Cash
+2012-12-31	17:27	Santa Ana	Women's Clothing	38.74	Visa
+2012-12-31	17:27	San Antonio	Music	265.88	Discover
+2012-12-31	17:27	Irving	Men's Clothing	179.1	MasterCard
+2012-12-31	17:27	Denver	Children's Clothing	389.86	Visa
+2012-12-31	17:28	Spokane	Men's Clothing	104.74	Amex
+2012-12-31	17:28	Baltimore	Sporting Goods	487.83	Visa
+2012-12-31	17:28	Honolulu	Children's Clothing	404.67	Amex
+2012-12-31	17:28	San Jose	Children's Clothing	43.92	Amex
+2012-12-31	17:28	Pittsburgh	Women's Clothing	203.98	Discover
+2012-12-31	17:28	Lubbock	Computers	86.72	MasterCard
+2012-12-31	17:28	El Paso	DVDs	152.51	MasterCard
+2012-12-31	17:28	Laredo	Baby	86.17	Visa
+2012-12-31	17:28	Chicago	CDs	94.25	Visa
+2012-12-31	17:28	Fremont	Toys	122.25	Discover
+2012-12-31	17:28	Glendale	Pet Supplies	297.53	Amex
+2012-12-31	17:28	Detroit	Health and Beauty	18.5	Discover
+2012-12-31	17:28	Arlington	CDs	196.05	Amex
+2012-12-31	17:28	Lincoln	Pet Supplies	389.75	Visa
+2012-12-31	17:29	St. Louis	DVDs	442.98	MasterCard
+2012-12-31	17:29	Tucson	Sporting Goods	265.04	Visa
+2012-12-31	17:29	St. Petersburg	Video Games	41.22	Amex
+2012-12-31	17:29	Fresno	Garden	231.52	Visa
+2012-12-31	17:29	Buffalo	Sporting Goods	286.33	Visa
+2012-12-31	17:29	St. Petersburg	Men's Clothing	490.66	Discover
+2012-12-31	17:29	Louisville	Health and Beauty	156.46	MasterCard
+2012-12-31	17:29	Jersey City	Books	124.54	Cash
+2012-12-31	17:29	Houston	Music	29.24	Discover
+2012-12-31	17:29	Irvine	Music	416.79	Amex
+2012-12-31	17:29	North Las Vegas	Music	357.45	Discover
+2012-12-31	17:29	Laredo	Health and Beauty	135.26	Amex
+2012-12-31	17:29	Kansas City	DVDs	335.34	MasterCard
+2012-12-31	17:29	Tucson	Video Games	209.43	Cash
+2012-12-31	17:29	Las Vegas	Computers	475.31	Visa
+2012-12-31	17:29	Milwaukee	Men's Clothing	156.65	Visa
+2012-12-31	17:29	Long Beach	Toys	12.92	Amex
+2012-12-31	17:29	Denver	DVDs	343.32	MasterCard
+2012-12-31	17:29	Jacksonville	Music	147.95	MasterCard
+2012-12-31	17:29	Orlando	Children's Clothing	283.46	Cash
+2012-12-31	17:29	Laredo	Women's Clothing	235.55	Cash
+2012-12-31	17:29	El Paso	Video Games	221.25	Amex
+2012-12-31	17:29	Henderson	Baby	51.52	Visa
+2012-12-31	17:30	Milwaukee	Crafts	383.44	Visa
+2012-12-31	17:30	Chicago	Men's Clothing	58.45	Discover
+2012-12-31	17:30	Milwaukee	Pet Supplies	327.85	Discover
+2012-12-31	17:30	Louisville	Children's Clothing	388.62	Discover
+2012-12-31	17:30	Fresno	Toys	346.4	Discover
+2012-12-31	17:30	Pittsburgh	Crafts	6.88	Cash
+2012-12-31	17:30	Tampa	Music	304.3	Discover
+2012-12-31	17:30	Austin	DVDs	75.75	Visa
+2012-12-31	17:30	Plano	Consumer Electronics	482.68	Discover
+2012-12-31	17:30	Corpus Christi	Computers	401.5	Cash
+2012-12-31	17:30	San Francisco	Garden	262.49	MasterCard
+2012-12-31	17:30	Corpus Christi	Women's Clothing	137.99	Cash
+2012-12-31	17:30	Saint Paul	Baby	4.82	Visa
+2012-12-31	17:30	Arlington	Sporting Goods	91.66	Amex
+2012-12-31	17:30	San Diego	Health and Beauty	496.8	Amex
+2012-12-31	17:30	Wichita	Crafts	171.94	Visa
+2012-12-31	17:30	Tucson	Cameras	452.6	Amex
+2012-12-31	17:30	Garland	CDs	11.71	MasterCard
+2012-12-31	17:30	Minneapolis	CDs	197.31	MasterCard
+2012-12-31	17:30	Santa Ana	Video Games	394.31	Amex
+2012-12-31	17:30	Memphis	Baby	122.49	Visa
+2012-12-31	17:30	San Antonio	Books	13.07	Cash
+2012-12-31	17:30	Albuquerque	CDs	413.21	Discover
+2012-12-31	17:30	Tampa	CDs	33.12	MasterCard
+2012-12-31	17:30	Philadelphia	Men's Clothing	401.27	MasterCard
+2012-12-31	17:30	Minneapolis	Computers	370.82	Cash
+2012-12-31	17:31	Anchorage	Consumer Electronics	442.96	Discover
+2012-12-31	17:31	Lexington	Women's Clothing	489.45	Discover
+2012-12-31	17:31	Fresno	CDs	224.24	Discover
+2012-12-31	17:31	Rochester	Toys	233.09	Cash
+2012-12-31	17:31	Cincinnati	Computers	313.13	Visa
+2012-12-31	17:31	Newark	Health and Beauty	60.38	Discover
+2012-12-31	17:31	St. Petersburg	Garden	10.49	Cash
+2012-12-31	17:31	Saint Paul	Music	209.22	Amex
+2012-12-31	17:31	Lexington	Women's Clothing	488.37	Visa
+2012-12-31	17:31	Gilbert	Music	445.35	Cash
+2012-12-31	17:31	El Paso	Women's Clothing	37.3	MasterCard
+2012-12-31	17:31	Indianapolis	Books	372.83	Visa
+2012-12-31	17:31	Laredo	Garden	333.73	Visa
+2012-12-31	17:31	Stockton	Cameras	67.86	MasterCard
+2012-12-31	17:31	Indianapolis	Computers	180.93	Discover
+2012-12-31	17:31	Lincoln	Women's Clothing	411.37	Amex
+2012-12-31	17:31	Raleigh	Pet Supplies	200.44	Discover
+2012-12-31	17:31	Lubbock	Toys	467.76	Cash
+2012-12-31	17:31	Spokane	Garden	212.64	Amex
+2012-12-31	17:31	Corpus Christi	Toys	74.37	Visa
+2012-12-31	17:32	Plano	Baby	275.59	Cash
+2012-12-31	17:32	Albuquerque	DVDs	410.88	Cash
+2012-12-31	17:32	Bakersfield	Pet Supplies	189.24	MasterCard
+2012-12-31	17:32	Hialeah	CDs	246.06	Discover
+2012-12-31	17:32	Dallas	Children's Clothing	215.42	Discover
+2012-12-31	17:32	Phoenix	Children's Clothing	274.74	MasterCard
+2012-12-31	17:32	St. Louis	Music	282.32	Cash
+2012-12-31	17:32	Madison	Men's Clothing	429.02	Amex
+2012-12-31	17:32	Glendale	Men's Clothing	270.36	Cash
+2012-12-31	17:32	Tucson	Books	472.67	MasterCard
+2012-12-31	17:32	Chandler	Music	28.51	Cash
+2012-12-31	17:32	Reno	Health and Beauty	253.97	Discover
+2012-12-31	17:32	San Jose	Pet Supplies	437.64	Cash
+2012-12-31	17:32	North Las Vegas	Toys	217.13	Visa
+2012-12-31	17:32	Las Vegas	Men's Clothing	476.92	Cash
+2012-12-31	17:32	Plano	CDs	2.14	Amex
+2012-12-31	17:32	Chula Vista	Computers	496.63	Amex
+2012-12-31	17:32	Miami	Books	91.32	Amex
+2012-12-31	17:32	Pittsburgh	Children's Clothing	333.99	MasterCard
+2012-12-31	17:33	Chandler	Cameras	447.19	Visa
+2012-12-31	17:33	Cincinnati	Books	409.85	Amex
+2012-12-31	17:33	Riverside	Garden	426.71	Discover
+2012-12-31	17:33	Garland	Books	285.61	Cash
+2012-12-31	17:33	Oklahoma City	Baby	407.58	Visa
+2012-12-31	17:33	Minneapolis	Garden	262.18	MasterCard
+2012-12-31	17:33	Boise	Music	140.32	MasterCard
+2012-12-31	17:33	Jersey City	Consumer Electronics	366.17	MasterCard
+2012-12-31	17:33	St. Petersburg	DVDs	278.94	Discover
+2012-12-31	17:33	St. Petersburg	Crafts	265.68	Cash
+2012-12-31	17:33	St. Petersburg	Consumer Electronics	328.69	Discover
+2012-12-31	17:33	Sacramento	Crafts	282.54	Visa
+2012-12-31	17:33	Durham	Computers	90.01	Discover
+2012-12-31	17:33	Denver	Women's Clothing	116.84	Visa
+2012-12-31	17:33	Anchorage	Computers	33.84	Amex
+2012-12-31	17:33	Mesa	Children's Clothing	36.62	Amex
+2012-12-31	17:33	San Diego	CDs	48.45	Visa
+2012-12-31	17:33	Chesapeake	Men's Clothing	89.2	Cash
+2012-12-31	17:33	Oakland	Men's Clothing	190.83	MasterCard
+2012-12-31	17:33	Tulsa	Books	399.43	MasterCard
+2012-12-31	17:33	Washington	Video Games	299.69	Amex
+2012-12-31	17:33	Columbus	Men's Clothing	261.79	Cash
+2012-12-31	17:33	Minneapolis	Sporting Goods	169.29	MasterCard
+2012-12-31	17:33	Oakland	Men's Clothing	382.09	Visa
+2012-12-31	17:33	New Orleans	Music	47.11	MasterCard
+2012-12-31	17:34	Henderson	Computers	225.9	Visa
+2012-12-31	17:34	Cincinnati	Garden	160.66	MasterCard
+2012-12-31	17:34	Cincinnati	Cameras	307.96	Cash
+2012-12-31	17:34	Irving	Health and Beauty	26.84	Visa
+2012-12-31	17:34	Columbus	Sporting Goods	282.34	Cash
+2012-12-31	17:34	Birmingham	Video Games	343.46	MasterCard
+2012-12-31	17:34	Honolulu	Books	14.08	Visa
+2012-12-31	17:34	Louisville	Music	131.37	Discover
+2012-12-31	17:34	Las Vegas	Health and Beauty	346.84	MasterCard
+2012-12-31	17:34	Tucson	Baby	337.76	Visa
+2012-12-31	17:34	Chandler	Baby	172.82	Cash
+2012-12-31	17:34	Plano	Pet Supplies	133.22	Visa
+2012-12-31	17:34	San Jose	Sporting Goods	463.87	Cash
+2012-12-31	17:34	Phoenix	Crafts	180.45	Cash
+2012-12-31	17:34	Garland	Baby	276.94	Amex
+2012-12-31	17:34	Plano	Books	240.77	Cash
+2012-12-31	17:34	Chesapeake	Sporting Goods	385.52	Visa
+2012-12-31	17:34	Chula Vista	Pet Supplies	286.2	Cash
+2012-12-31	17:34	Fort Wayne	Baby	208.28	Cash
+2012-12-31	17:34	Santa Ana	Music	101.46	Visa
+2012-12-31	17:34	Seattle	Video Games	492.55	Amex
+2012-12-31	17:34	Reno	Cameras	254.23	MasterCard
+2012-12-31	17:34	Lubbock	Pet Supplies	247.89	Discover
+2012-12-31	17:34	Milwaukee	Men's Clothing	234.46	MasterCard
+2012-12-31	17:35	Buffalo	Sporting Goods	104.88	Visa
+2012-12-31	17:35	Chesapeake	Pet Supplies	30.97	MasterCard
+2012-12-31	17:35	Gilbert	Music	232.25	Amex
+2012-12-31	17:35	Baton Rouge	Baby	389.34	Cash
+2012-12-31	17:35	San Bernardino	Sporting Goods	464.77	Discover
+2012-12-31	17:35	Newark	Crafts	142.62	Visa
+2012-12-31	17:35	Spokane	Books	333.72	Cash
+2012-12-31	17:35	Greensboro	Consumer Electronics	391.71	MasterCard
+2012-12-31	17:35	New York	Baby	471.86	MasterCard
+2012-12-31	17:35	Indianapolis	Crafts	418.85	Visa
+2012-12-31	17:35	Houston	Cameras	450.46	Visa
+2012-12-31	17:35	Dallas	Pet Supplies	13.53	Amex
+2012-12-31	17:35	Jersey City	Garden	361.33	MasterCard
+2012-12-31	17:35	Reno	Sporting Goods	179.46	Amex
+2012-12-31	17:35	Long Beach	Crafts	239.39	Amex
+2012-12-31	17:35	Lexington	Sporting Goods	199.75	Cash
+2012-12-31	17:35	Jacksonville	Books	138.24	Cash
+2012-12-31	17:35	Fort Worth	Video Games	232.75	Discover
+2012-12-31	17:35	Charlotte	Crafts	223.85	MasterCard
+2012-12-31	17:35	Norfolk	Cameras	379.09	Amex
+2012-12-31	17:35	Indianapolis	Computers	129.28	Amex
+2012-12-31	17:35	Baton Rouge	Garden	10.8	Visa
+2012-12-31	17:35	Fresno	Pet Supplies	105.15	MasterCard
+2012-12-31	17:35	North Las Vegas	Cameras	379.27	Cash
+2012-12-31	17:35	Chicago	Health and Beauty	317.06	Discover
+2012-12-31	17:36	Madison	Crafts	396.17	Amex
+2012-12-31	17:36	Laredo	Books	430.47	Cash
+2012-12-31	17:36	Oklahoma City	Toys	117.55	Cash
+2012-12-31	17:36	Buffalo	Children's Clothing	381.3	Visa
+2012-12-31	17:36	Memphis	Music	261.89	Discover
+2012-12-31	17:36	Indianapolis	Video Games	382.08	Visa
+2012-12-31	17:36	Irvine	Garden	356.17	Amex
+2012-12-31	17:36	Phoenix	Children's Clothing	52.26	Visa
+2012-12-31	17:36	St. Petersburg	Children's Clothing	139.58	Cash
+2012-12-31	17:36	Irving	CDs	349.25	Discover
+2012-12-31	17:36	Durham	Music	86.89	Visa
+2012-12-31	17:36	Nashville	Sporting Goods	355.27	Discover
+2012-12-31	17:36	Richmond	Garden	384.08	Discover
+2012-12-31	17:36	Albuquerque	Video Games	497.54	MasterCard
+2012-12-31	17:36	Riverside	Men's Clothing	382.87	Visa
+2012-12-31	17:36	Long Beach	Health and Beauty	198.89	Amex
+2012-12-31	17:36	Sacramento	Consumer Electronics	373.15	Cash
+2012-12-31	17:36	Lexington	Women's Clothing	405.97	Visa
+2012-12-31	17:36	Aurora	Books	32.15	Discover
+2012-12-31	17:37	Las Vegas	Pet Supplies	185.9	MasterCard
+2012-12-31	17:37	Chula Vista	CDs	103.47	Visa
+2012-12-31	17:37	Fresno	Pet Supplies	450.26	Cash
+2012-12-31	17:37	Lubbock	Computers	418.36	MasterCard
+2012-12-31	17:37	Charlotte	CDs	218.64	Visa
+2012-12-31	17:37	Long Beach	DVDs	142.1	Discover
+2012-12-31	17:37	Chesapeake	Computers	306.37	Cash
+2012-12-31	17:37	Spokane	Sporting Goods	475.65	Discover
+2012-12-31	17:37	Lubbock	Men's Clothing	28.87	Cash
+2012-12-31	17:37	Cleveland	Consumer Electronics	457.81	MasterCard
+2012-12-31	17:37	Baltimore	DVDs	99.26	MasterCard
+2012-12-31	17:37	Chandler	Health and Beauty	498.23	Cash
+2012-12-31	17:37	Birmingham	DVDs	150.13	Amex
+2012-12-31	17:37	Jersey City	Video Games	114.59	MasterCard
+2012-12-31	17:37	Albuquerque	Video Games	54.08	Visa
+2012-12-31	17:37	Rochester	DVDs	119.43	Amex
+2012-12-31	17:37	Reno	Women's Clothing	391.01	Amex
+2012-12-31	17:37	Milwaukee	Video Games	408.14	Discover
+2012-12-31	17:37	San Antonio	Pet Supplies	344.9	Amex
+2012-12-31	17:37	Scottsdale	Computers	206.99	Amex
+2012-12-31	17:37	Pittsburgh	DVDs	350.87	Visa
+2012-12-31	17:38	Wichita	Women's Clothing	193.93	MasterCard
+2012-12-31	17:38	Phoenix	Crafts	258.57	Discover
+2012-12-31	17:38	Reno	Garden	368.02	Cash
+2012-12-31	17:38	Pittsburgh	Children's Clothing	126.59	MasterCard
+2012-12-31	17:38	Irving	Pet Supplies	65.03	Amex
+2012-12-31	17:38	Denver	Children's Clothing	179.79	Discover
+2012-12-31	17:38	St. Louis	Computers	173.68	Discover
+2012-12-31	17:38	Fort Worth	Cameras	416.07	MasterCard
+2012-12-31	17:38	Memphis	Books	348.5	Amex
+2012-12-31	17:38	Portland	Books	444.25	Visa
+2012-12-31	17:38	Los Angeles	Books	281.13	MasterCard
+2012-12-31	17:38	Miami	Crafts	365.44	Discover
+2012-12-31	17:38	Dallas	Computers	275.99	Visa
+2012-12-31	17:38	North Las Vegas	Health and Beauty	20.21	Visa
+2012-12-31	17:38	Atlanta	Toys	458.54	MasterCard
+2012-12-31	17:38	Wichita	Music	68.6	Cash
+2012-12-31	17:38	Oklahoma City	Children's Clothing	121.71	Visa
+2012-12-31	17:38	Spokane	Cameras	295.41	Cash
+2012-12-31	17:38	Boston	Consumer Electronics	111.73	Amex
+2012-12-31	17:39	Honolulu	Children's Clothing	205.11	Discover
+2012-12-31	17:39	Nashville	Music	90.55	Cash
+2012-12-31	17:39	Austin	Sporting Goods	88.73	Cash
+2012-12-31	17:39	Portland	Computers	109.43	Discover
+2012-12-31	17:39	Hialeah	Computers	5.34	Visa
+2012-12-31	17:39	Oklahoma City	Sporting Goods	403.11	MasterCard
+2012-12-31	17:39	Norfolk	Health and Beauty	226.05	Cash
+2012-12-31	17:39	Orlando	CDs	184.87	Cash
+2012-12-31	17:39	Phoenix	Pet Supplies	118.07	Cash
+2012-12-31	17:39	Dallas	Consumer Electronics	153.91	Cash
+2012-12-31	17:39	Durham	Sporting Goods	33.6	Visa
+2012-12-31	17:39	Newark	Computers	377.03	MasterCard
+2012-12-31	17:39	Newark	DVDs	18.6	Cash
+2012-12-31	17:39	Plano	Sporting Goods	221.89	Visa
+2012-12-31	17:39	Dallas	CDs	168.54	Visa
+2012-12-31	17:39	Cleveland	Garden	10.44	Amex
+2012-12-31	17:39	Honolulu	Women's Clothing	387.01	Amex
+2012-12-31	17:39	Memphis	Baby	245.54	MasterCard
+2012-12-31	17:39	San Francisco	Crafts	232.36	Visa
+2012-12-31	17:39	Nashville	Children's Clothing	352.38	Visa
+2012-12-31	17:40	Laredo	Children's Clothing	249.38	Cash
+2012-12-31	17:40	Kansas City	Computers	43.16	MasterCard
+2012-12-31	17:40	Toledo	Computers	317.14	Cash
+2012-12-31	17:40	Oklahoma City	Health and Beauty	30.34	Visa
+2012-12-31	17:40	Lubbock	Video Games	94.91	Discover
+2012-12-31	17:40	Birmingham	Children's Clothing	97.22	MasterCard
+2012-12-31	17:40	Minneapolis	Children's Clothing	117.5	Discover
+2012-12-31	17:40	Chicago	DVDs	330.38	Discover
+2012-12-31	17:40	Chicago	Computers	376.23	Discover
+2012-12-31	17:40	Fort Wayne	Garden	128.99	Discover
+2012-12-31	17:40	Philadelphia	Pet Supplies	414.21	Discover
+2012-12-31	17:40	Detroit	Video Games	328.66	Discover
+2012-12-31	17:40	St. Petersburg	Computers	340.67	Discover
+2012-12-31	17:40	Cincinnati	Baby	252.12	Discover
+2012-12-31	17:40	Lincoln	Sporting Goods	193.31	Visa
+2012-12-31	17:40	Richmond	Cameras	492.09	Amex
+2012-12-31	17:40	Stockton	Men's Clothing	484.04	Visa
+2012-12-31	17:40	Durham	Health and Beauty	215.82	Discover
+2012-12-31	17:41	Hialeah	Sporting Goods	386.84	Cash
+2012-12-31	17:41	Boston	Computers	356.23	Visa
+2012-12-31	17:41	St. Louis	Crafts	304.15	Visa
+2012-12-31	17:41	San Bernardino	Children's Clothing	91.64	Cash
+2012-12-31	17:41	St. Petersburg	Women's Clothing	157.07	Discover
+2012-12-31	17:41	St. Petersburg	DVDs	30.24	Cash
+2012-12-31	17:41	Miami	Baby	405.83	MasterCard
+2012-12-31	17:41	Lexington	Men's Clothing	82.91	Amex
+2012-12-31	17:41	New York	Toys	90.43	MasterCard
+2012-12-31	17:41	Pittsburgh	Music	360.8	Amex
+2012-12-31	17:41	Rochester	Baby	129	Amex
+2012-12-31	17:41	Oklahoma City	Video Games	470.6	MasterCard
+2012-12-31	17:41	Denver	Garden	70.3	MasterCard
+2012-12-31	17:41	Long Beach	Books	224.58	MasterCard
+2012-12-31	17:41	San Diego	Books	367.38	Amex
+2012-12-31	17:41	Memphis	Sporting Goods	356.13	Visa
+2012-12-31	17:41	Gilbert	CDs	143.88	Cash
+2012-12-31	17:41	Kansas City	Music	340.51	Visa
+2012-12-31	17:41	Norfolk	Pet Supplies	418.61	MasterCard
+2012-12-31	17:41	Chula Vista	CDs	177.32	Amex
+2012-12-31	17:41	Denver	Garden	335.56	MasterCard
+2012-12-31	17:41	Riverside	Consumer Electronics	270.04	Visa
+2012-12-31	17:42	Henderson	Men's Clothing	166.47	Cash
+2012-12-31	17:42	Jacksonville	Baby	95.76	MasterCard
+2012-12-31	17:42	Baton Rouge	Pet Supplies	363.94	Cash
+2012-12-31	17:42	Chandler	CDs	421.45	Amex
+2012-12-31	17:42	Atlanta	Garden	161.32	Cash
+2012-12-31	17:42	Dallas	Cameras	232.41	Visa
+2012-12-31	17:42	Charlotte	Pet Supplies	36.32	Amex
+2012-12-31	17:42	Detroit	Video Games	498.22	MasterCard
+2012-12-31	17:42	Oklahoma City	Pet Supplies	244.22	Amex
+2012-12-31	17:42	Arlington	Garden	478.05	MasterCard
+2012-12-31	17:42	New Orleans	Men's Clothing	21.04	Cash
+2012-12-31	17:42	Winston–Salem	Health and Beauty	161.23	Cash
+2012-12-31	17:42	Austin	Women's Clothing	8.12	MasterCard
+2012-12-31	17:42	Las Vegas	Books	302.98	Visa
+2012-12-31	17:42	Anaheim	Children's Clothing	168.74	Visa
+2012-12-31	17:42	San Bernardino	Health and Beauty	17.41	Visa
+2012-12-31	17:42	St. Petersburg	Books	338.66	Cash
+2012-12-31	17:43	Irvine	Pet Supplies	412.6	Visa
+2012-12-31	17:43	Madison	Sporting Goods	29.04	Cash
+2012-12-31	17:43	Winston–Salem	Children's Clothing	346.31	Discover
+2012-12-31	17:43	Austin	Health and Beauty	379.08	Discover
+2012-12-31	17:43	Minneapolis	Sporting Goods	203.51	Discover
+2012-12-31	17:43	Honolulu	Health and Beauty	431.09	MasterCard
+2012-12-31	17:43	Fort Worth	Pet Supplies	484.66	MasterCard
+2012-12-31	17:43	Baltimore	Music	45.6	Visa
+2012-12-31	17:43	New York	Consumer Electronics	148.49	Visa
+2012-12-31	17:43	Virginia Beach	Toys	177.53	Amex
+2012-12-31	17:43	Philadelphia	DVDs	89.29	Visa
+2012-12-31	17:43	Irving	Books	442.15	Cash
+2012-12-31	17:43	Spokane	Computers	91.53	Amex
+2012-12-31	17:43	Columbus	Toys	481.46	Cash
+2012-12-31	17:43	Lincoln	Health and Beauty	118.53	Discover
+2012-12-31	17:43	Spokane	Consumer Electronics	179.18	Cash
+2012-12-31	17:43	Winston–Salem	Crafts	333.67	Cash
+2012-12-31	17:43	Louisville	Cameras	173.9	Visa
+2012-12-31	17:43	Milwaukee	Sporting Goods	368.4	Cash
+2012-12-31	17:44	Columbus	Baby	306.23	Cash
+2012-12-31	17:44	Cincinnati	Baby	160.35	Visa
+2012-12-31	17:44	Nashville	Children's Clothing	173.55	Amex
+2012-12-31	17:44	Omaha	CDs	371.96	Discover
+2012-12-31	17:44	New York	Crafts	373.36	Visa
+2012-12-31	17:44	Fresno	Baby	211.61	Cash
+2012-12-31	17:44	Garland	Computers	483.8	Cash
+2012-12-31	17:44	Los Angeles	Video Games	122.87	Visa
+2012-12-31	17:44	New York	DVDs	378.61	Visa
+2012-12-31	17:44	Tulsa	Cameras	185.18	Visa
+2012-12-31	17:44	San Jose	Cameras	62.72	Cash
+2012-12-31	17:44	Rochester	Garden	449.37	Discover
+2012-12-31	17:44	El Paso	Sporting Goods	371.92	Visa
+2012-12-31	17:44	Indianapolis	Health and Beauty	22.71	Visa
+2012-12-31	17:44	St. Petersburg	Garden	343.87	Discover
+2012-12-31	17:44	Oklahoma City	Cameras	471.93	Cash
+2012-12-31	17:44	Raleigh	Garden	489.32	Cash
+2012-12-31	17:44	Lexington	Women's Clothing	58.74	Discover
+2012-12-31	17:44	Bakersfield	Toys	183.1	Discover
+2012-12-31	17:44	Atlanta	Crafts	222.33	Cash
+2012-12-31	17:44	Houston	Computers	393.21	MasterCard
+2012-12-31	17:44	Corpus Christi	Toys	239.93	Cash
+2012-12-31	17:45	Colorado Springs	Garden	99.82	Amex
+2012-12-31	17:45	San Jose	Women's Clothing	35.33	Visa
+2012-12-31	17:45	Portland	CDs	408.16	Cash
+2012-12-31	17:45	Orlando	Baby	185.85	Visa
+2012-12-31	17:45	Toledo	Video Games	302.12	Cash
+2012-12-31	17:45	St. Petersburg	CDs	129.33	Discover
+2012-12-31	17:45	Denver	Video Games	359.49	Visa
+2012-12-31	17:45	Colorado Springs	Consumer Electronics	124.09	Amex
+2012-12-31	17:45	El Paso	Pet Supplies	356.11	Discover
+2012-12-31	17:45	Orlando	Books	326.79	Discover
+2012-12-31	17:45	Buffalo	Baby	139.08	MasterCard
+2012-12-31	17:45	Lexington	Women's Clothing	340.77	Visa
+2012-12-31	17:45	Irvine	Children's Clothing	137.48	Visa
+2012-12-31	17:45	Winston–Salem	Crafts	158.97	Discover
+2012-12-31	17:45	Newark	Health and Beauty	163.42	Cash
+2012-12-31	17:45	Norfolk	Consumer Electronics	121.37	MasterCard
+2012-12-31	17:45	Albuquerque	Toys	167.53	Amex
+2012-12-31	17:45	Santa Ana	Music	423.3	MasterCard
+2012-12-31	17:46	Indianapolis	Video Games	217.66	MasterCard
+2012-12-31	17:46	Los Angeles	DVDs	12.79	Cash
+2012-12-31	17:46	Toledo	Computers	80.42	Amex
+2012-12-31	17:46	San Jose	Computers	350.95	Cash
+2012-12-31	17:46	El Paso	Pet Supplies	4.64	Cash
+2012-12-31	17:46	Richmond	Video Games	328.43	Visa
+2012-12-31	17:46	Fort Wayne	Children's Clothing	288.2	Visa
+2012-12-31	17:46	Dallas	Sporting Goods	404.75	Visa
+2012-12-31	17:46	Cincinnati	Health and Beauty	139.29	Cash
+2012-12-31	17:46	Baltimore	Pet Supplies	409.85	Visa
+2012-12-31	17:46	Gilbert	Children's Clothing	25.17	Amex
+2012-12-31	17:46	Chicago	Children's Clothing	322.44	MasterCard
+2012-12-31	17:46	New York	CDs	275.45	Discover
+2012-12-31	17:46	Washington	Baby	11.41	Discover
+2012-12-31	17:46	Rochester	Consumer Electronics	454.95	MasterCard
+2012-12-31	17:46	Portland	Cameras	266.25	Cash
+2012-12-31	17:46	Houston	Video Games	390.3	Cash
+2012-12-31	17:46	North Las Vegas	Garden	320.55	Discover
+2012-12-31	17:46	Richmond	Computers	242.04	Amex
+2012-12-31	17:46	Stockton	Pet Supplies	312.58	MasterCard
+2012-12-31	17:46	Albuquerque	Sporting Goods	311.33	Discover
+2012-12-31	17:46	Denver	Health and Beauty	418.64	Discover
+2012-12-31	17:47	Corpus Christi	Baby	387.39	Amex
+2012-12-31	17:47	Seattle	Video Games	389.83	Visa
+2012-12-31	17:47	San Jose	Music	111.38	Amex
+2012-12-31	17:47	Chesapeake	Computers	304.14	MasterCard
+2012-12-31	17:47	Lexington	Children's Clothing	297.04	Visa
+2012-12-31	17:47	Austin	Men's Clothing	364.39	Discover
+2012-12-31	17:47	Fort Worth	Computers	316.67	Visa
+2012-12-31	17:47	Birmingham	Women's Clothing	362.8	Amex
+2012-12-31	17:47	Long Beach	CDs	57.82	Amex
+2012-12-31	17:47	San Bernardino	Video Games	384.79	Visa
+2012-12-31	17:47	Durham	Computers	301.62	Visa
+2012-12-31	17:47	St. Petersburg	Pet Supplies	48.15	MasterCard
+2012-12-31	17:47	Raleigh	Consumer Electronics	130.38	Visa
+2012-12-31	17:47	Virginia Beach	Video Games	163.64	Cash
+2012-12-31	17:47	Charlotte	Books	386.2	Discover
+2012-12-31	17:47	North Las Vegas	Garden	33.36	Discover
+2012-12-31	17:47	Riverside	Health and Beauty	208.69	Cash
+2012-12-31	17:47	Aurora	Men's Clothing	35.12	Visa
+2012-12-31	17:47	Baton Rouge	Women's Clothing	464.95	Visa
+2012-12-31	17:47	Wichita	Garden	349.99	Amex
+2012-12-31	17:47	Virginia Beach	Crafts	282.79	Cash
+2012-12-31	17:47	Jacksonville	Music	258.75	Visa
+2012-12-31	17:47	Milwaukee	DVDs	48.28	Discover
+2012-12-31	17:48	Anaheim	Pet Supplies	468.06	Visa
+2012-12-31	17:48	Las Vegas	Music	100.15	Discover
+2012-12-31	17:48	Honolulu	Cameras	400.23	Cash
+2012-12-31	17:48	St. Louis	Pet Supplies	334.09	Visa
+2012-12-31	17:48	Norfolk	Pet Supplies	55.62	Visa
+2012-12-31	17:48	Spokane	Baby	229.6	Discover
+2012-12-31	17:48	Baltimore	Men's Clothing	281.83	Cash
+2012-12-31	17:48	San Diego	Video Games	156.93	Discover
+2012-12-31	17:48	Fort Wayne	Children's Clothing	157.87	Amex
+2012-12-31	17:48	Cleveland	Sporting Goods	150.85	Cash
+2012-12-31	17:48	Irvine	Health and Beauty	115.56	MasterCard
+2012-12-31	17:48	Reno	Women's Clothing	39.97	Amex
+2012-12-31	17:48	Chicago	Consumer Electronics	90.61	MasterCard
+2012-12-31	17:48	Chandler	DVDs	431.37	Amex
+2012-12-31	17:48	San Francisco	Sporting Goods	408.01	MasterCard
+2012-12-31	17:48	Long Beach	Video Games	196.31	Amex
+2012-12-31	17:48	Las Vegas	CDs	297.72	Discover
+2012-12-31	17:48	Wichita	Cameras	305.48	Discover
+2012-12-31	17:48	Chula Vista	Children's Clothing	415.17	Amex
+2012-12-31	17:48	Lubbock	Men's Clothing	22.97	Cash
+2012-12-31	17:48	San Antonio	CDs	29.85	Cash
+2012-12-31	17:49	Aurora	Music	403.45	Amex
+2012-12-31	17:49	Boston	Sporting Goods	139.09	MasterCard
+2012-12-31	17:49	Corpus Christi	Women's Clothing	56.8	Visa
+2012-12-31	17:49	Boise	Children's Clothing	358.83	MasterCard
+2012-12-31	17:49	Oklahoma City	Pet Supplies	13.51	Cash
+2012-12-31	17:49	Oakland	DVDs	464.01	Cash
+2012-12-31	17:49	Austin	CDs	245.42	MasterCard
+2012-12-31	17:49	Houston	Video Games	3.18	Visa
+2012-12-31	17:49	Houston	Garden	278.07	Discover
+2012-12-31	17:49	Denver	Video Games	166.64	Visa
+2012-12-31	17:49	San Diego	Books	436.54	Amex
+2012-12-31	17:49	Rochester	Crafts	121.98	MasterCard
+2012-12-31	17:49	Fremont	Cameras	431.34	Amex
+2012-12-31	17:49	Plano	Sporting Goods	356.52	Amex
+2012-12-31	17:49	Miami	Men's Clothing	138.32	MasterCard
+2012-12-31	17:49	Riverside	Women's Clothing	99.7	Discover
+2012-12-31	17:49	San Francisco	Crafts	63.43	Visa
+2012-12-31	17:49	Kansas City	Toys	267.24	MasterCard
+2012-12-31	17:49	San Bernardino	Toys	366.39	Discover
+2012-12-31	17:49	Colorado Springs	DVDs	244.3	Cash
+2012-12-31	17:49	Raleigh	Consumer Electronics	15.95	Cash
+2012-12-31	17:50	Colorado Springs	Garden	393.64	Cash
+2012-12-31	17:50	Phoenix	Music	240.71	Amex
+2012-12-31	17:50	Minneapolis	Women's Clothing	158.87	Discover
+2012-12-31	17:50	Orlando	Women's Clothing	114.89	MasterCard
+2012-12-31	17:50	Lubbock	Music	82.53	Amex
+2012-12-31	17:50	Sacramento	Music	221.02	Visa
+2012-12-31	17:50	Garland	Pet Supplies	493.14	Discover
+2012-12-31	17:50	Nashville	Men's Clothing	111.49	MasterCard
+2012-12-31	17:50	Honolulu	Pet Supplies	49.22	Cash
+2012-12-31	17:50	Albuquerque	Health and Beauty	430.3	MasterCard
+2012-12-31	17:50	Stockton	Computers	232.09	Cash
+2012-12-31	17:50	Scottsdale	CDs	103.88	Discover
+2012-12-31	17:50	Baton Rouge	Health and Beauty	115.97	Discover
+2012-12-31	17:50	Minneapolis	Men's Clothing	484.4	Cash
+2012-12-31	17:50	Tampa	Children's Clothing	271.24	Amex
+2012-12-31	17:50	San Bernardino	Toys	389.32	Amex
+2012-12-31	17:50	New York	Books	317.59	Cash
+2012-12-31	17:50	Tucson	Garden	321.9	MasterCard
+2012-12-31	17:51	Omaha	Computers	140.71	Visa
+2012-12-31	17:51	New York	CDs	406.02	Cash
+2012-12-31	17:51	Atlanta	Music	411.09	Visa
+2012-12-31	17:51	Corpus Christi	DVDs	277.65	Amex
+2012-12-31	17:51	Chandler	Toys	50.46	Discover
+2012-12-31	17:51	St. Louis	Health and Beauty	306.26	Amex
+2012-12-31	17:51	Saint Paul	Video Games	326.62	Discover
+2012-12-31	17:51	Winston–Salem	Toys	142.11	Discover
+2012-12-31	17:51	Houston	Children's Clothing	285.56	Discover
+2012-12-31	17:51	Indianapolis	Books	131.08	Discover
+2012-12-31	17:51	Long Beach	Crafts	237.95	Discover
+2012-12-31	17:51	Detroit	Consumer Electronics	214.4	Cash
+2012-12-31	17:51	Oklahoma City	Children's Clothing	438.55	Visa
+2012-12-31	17:51	Glendale	Books	360.46	Amex
+2012-12-31	17:51	Sacramento	Video Games	32.8	Cash
+2012-12-31	17:51	Oakland	Baby	26.37	Visa
+2012-12-31	17:51	Chesapeake	Consumer Electronics	358.41	Visa
+2012-12-31	17:51	Kansas City	Toys	23.76	Cash
+2012-12-31	17:51	Anchorage	Women's Clothing	358.01	MasterCard
+2012-12-31	17:51	Anaheim	Baby	169.6	Cash
+2012-12-31	17:51	Colorado Springs	Consumer Electronics	119.69	Amex
+2012-12-31	17:52	Rochester	DVDs	33.35	MasterCard
+2012-12-31	17:52	Wichita	Books	346.75	Visa
+2012-12-31	17:52	Spokane	DVDs	336.66	Visa
+2012-12-31	17:52	Portland	Children's Clothing	295.02	Amex
+2012-12-31	17:52	Phoenix	Garden	211.34	Visa
+2012-12-31	17:52	Columbus	Books	118.67	MasterCard
+2012-12-31	17:52	Raleigh	Books	374.12	Visa
+2012-12-31	17:52	Hialeah	Health and Beauty	66.39	Cash
+2012-12-31	17:52	Bakersfield	CDs	261.91	MasterCard
+2012-12-31	17:52	Columbus	Toys	61.73	Amex
+2012-12-31	17:52	Baton Rouge	Pet Supplies	445.32	MasterCard
+2012-12-31	17:52	Austin	Cameras	66.75	Discover
+2012-12-31	17:52	Portland	Men's Clothing	137.55	MasterCard
+2012-12-31	17:52	San Diego	Baby	240.61	MasterCard
+2012-12-31	17:52	Colorado Springs	Music	494.48	MasterCard
+2012-12-31	17:52	Saint Paul	Crafts	110.28	MasterCard
+2012-12-31	17:52	Hialeah	Sporting Goods	96.39	MasterCard
+2012-12-31	17:52	Cincinnati	DVDs	92.81	MasterCard
+2012-12-31	17:52	El Paso	Consumer Electronics	474.23	Visa
+2012-12-31	17:52	Reno	Children's Clothing	345.76	Visa
+2012-12-31	17:52	Saint Paul	Books	56.55	MasterCard
+2012-12-31	17:53	Sacramento	Cameras	108.12	Discover
+2012-12-31	17:53	Richmond	Children's Clothing	378.36	Discover
+2012-12-31	17:53	Atlanta	Books	265.46	MasterCard
+2012-12-31	17:53	Reno	CDs	456.11	Discover
+2012-12-31	17:53	Atlanta	Books	456.66	Cash
+2012-12-31	17:53	Memphis	Crafts	457.26	Discover
+2012-12-31	17:53	San Bernardino	CDs	217.66	Visa
+2012-12-31	17:53	Albuquerque	Health and Beauty	450.6	Visa
+2012-12-31	17:53	Kansas City	Sporting Goods	452.65	Amex
+2012-12-31	17:53	St. Louis	Music	350.64	Visa
+2012-12-31	17:53	Chesapeake	Toys	386.58	Amex
+2012-12-31	17:53	San Antonio	Computers	496.6	MasterCard
+2012-12-31	17:53	Fresno	CDs	396.67	Cash
+2012-12-31	17:53	Phoenix	Women's Clothing	86.21	Visa
+2012-12-31	17:53	Charlotte	Video Games	184.85	Visa
+2012-12-31	17:53	Washington	Books	89.09	Discover
+2012-12-31	17:53	Milwaukee	Pet Supplies	293.67	Discover
+2012-12-31	17:53	Spokane	Toys	340.38	Amex
+2012-12-31	17:53	Tampa	Toys	266.55	Discover
+2012-12-31	17:53	Mesa	Cameras	454.69	Amex
+2012-12-31	17:53	Stockton	Video Games	353.27	Cash
+2012-12-31	17:54	San Antonio	Video Games	422.43	MasterCard
+2012-12-31	17:54	Orlando	Health and Beauty	220.52	Discover
+2012-12-31	17:54	Lincoln	Baby	169.32	MasterCard
+2012-12-31	17:54	Orlando	Consumer Electronics	249.58	Discover
+2012-12-31	17:54	Houston	Women's Clothing	492.85	Amex
+2012-12-31	17:54	Chula Vista	Garden	293.76	Discover
+2012-12-31	17:54	Cleveland	Music	336.39	Amex
+2012-12-31	17:54	Fresno	Toys	41.03	MasterCard
+2012-12-31	17:54	Wichita	CDs	168.91	MasterCard
+2012-12-31	17:54	Honolulu	DVDs	63.61	Visa
+2012-12-31	17:54	Newark	Books	91.4	Visa
+2012-12-31	17:54	Tucson	CDs	232	MasterCard
+2012-12-31	17:54	Orlando	Health and Beauty	163.41	MasterCard
+2012-12-31	17:54	Raleigh	DVDs	295.35	Cash
+2012-12-31	17:54	Chesapeake	Cameras	465.34	Cash
+2012-12-31	17:54	Reno	Music	228.47	Cash
+2012-12-31	17:54	Houston	Sporting Goods	419.59	Visa
+2012-12-31	17:54	Los Angeles	Pet Supplies	132.95	Amex
+2012-12-31	17:54	Denver	DVDs	235.55	Visa
+2012-12-31	17:54	Bakersfield	Video Games	147.12	Cash
+2012-12-31	17:55	Albuquerque	Cameras	110.33	Cash
+2012-12-31	17:55	New Orleans	Women's Clothing	209.97	Visa
+2012-12-31	17:55	Lincoln	Children's Clothing	158.92	Amex
+2012-12-31	17:55	Wichita	Baby	269.64	Visa
+2012-12-31	17:55	Los Angeles	Consumer Electronics	246.99	Cash
+2012-12-31	17:55	Irvine	Computers	301.41	Visa
+2012-12-31	17:55	Chula Vista	Toys	37.51	Visa
+2012-12-31	17:55	Tampa	Books	53.18	Cash
+2012-12-31	17:55	New Orleans	Cameras	423.88	Amex
+2012-12-31	17:55	Baton Rouge	Garden	199.53	Discover
+2012-12-31	17:55	Chesapeake	Pet Supplies	306.69	Discover
+2012-12-31	17:55	Philadelphia	Garden	254.26	Cash
+2012-12-31	17:55	Chula Vista	DVDs	211.9	Cash
+2012-12-31	17:55	Toledo	Consumer Electronics	283.61	MasterCard
+2012-12-31	17:55	Tulsa	Garden	116.9	Amex
+2012-12-31	17:55	Virginia Beach	Music	361.77	Amex
+2012-12-31	17:55	Mesa	Men's Clothing	435.57	Amex
+2012-12-31	17:55	Fresno	Children's Clothing	364.41	Discover
+2012-12-31	17:55	Fremont	Sporting Goods	21.25	Cash
+2012-12-31	17:56	Glendale	Computers	489.67	MasterCard
+2012-12-31	17:56	Orlando	Sporting Goods	481.15	Cash
+2012-12-31	17:56	Omaha	Toys	109.37	Visa
+2012-12-31	17:56	Durham	DVDs	237.89	Discover
+2012-12-31	17:56	Chesapeake	Consumer Electronics	50.42	MasterCard
+2012-12-31	17:56	Lincoln	Computers	220.06	MasterCard
+2012-12-31	17:56	Greensboro	Consumer Electronics	294.13	MasterCard
+2012-12-31	17:56	Chula Vista	Women's Clothing	62.2	Cash
+2012-12-31	17:56	St. Louis	Men's Clothing	28.8	Visa
+2012-12-31	17:56	Chula Vista	Men's Clothing	426.37	MasterCard
+2012-12-31	17:56	Norfolk	Books	315.66	MasterCard
+2012-12-31	17:56	Stockton	Toys	334.58	Visa
+2012-12-31	17:56	Memphis	Consumer Electronics	458.03	Visa
+2012-12-31	17:56	San Jose	Books	153.75	Amex
+2012-12-31	17:56	Tulsa	Consumer Electronics	336.4	MasterCard
+2012-12-31	17:56	Wichita	Children's Clothing	58.43	Amex
+2012-12-31	17:56	Chicago	Video Games	84.49	MasterCard
+2012-12-31	17:56	Washington	DVDs	404.65	Visa
+2012-12-31	17:56	San Bernardino	Health and Beauty	290.11	Cash
+2012-12-31	17:56	Miami	Garden	53.25	Discover
+2012-12-31	17:56	Raleigh	Video Games	209.19	Visa
+2012-12-31	17:57	Gilbert	Baby	427.97	MasterCard
+2012-12-31	17:57	Fort Worth	Music	148.2	Visa
+2012-12-31	17:57	Winston–Salem	Books	236.72	Visa
+2012-12-31	17:57	Fremont	Video Games	394.28	Visa
+2012-12-31	17:57	Corpus Christi	Toys	437.79	Amex
+2012-12-31	17:57	Indianapolis	Cameras	23.33	Cash
+2012-12-31	17:57	Bakersfield	Music	361.22	Amex
+2012-12-31	17:57	Pittsburgh	Sporting Goods	368.13	Cash
+2012-12-31	17:57	Portland	DVDs	393.98	MasterCard
+2012-12-31	17:57	Irving	Computers	90.31	Cash
+2012-12-31	17:57	Minneapolis	CDs	167.3	Amex
+2012-12-31	17:57	Orlando	Video Games	384.29	MasterCard
+2012-12-31	17:57	Pittsburgh	Children's Clothing	466.42	Visa
+2012-12-31	17:57	Oakland	Women's Clothing	206.15	MasterCard
+2012-12-31	17:57	Madison	Baby	44.47	Visa
+2012-12-31	17:57	Anaheim	Garden	194.91	Amex
+2012-12-31	17:57	Portland	Video Games	195.03	Amex
+2012-12-31	17:57	Durham	Consumer Electronics	452.9	Amex
+2012-12-31	17:57	Gilbert	Crafts	186.78	MasterCard
+2012-12-31	17:57	Indianapolis	Books	272.46	Discover
+2012-12-31	17:57	Kansas City	Women's Clothing	205.32	Visa
+2012-12-31	17:58	Stockton	Video Games	250.27	Amex
+2012-12-31	17:58	Lincoln	Sporting Goods	20.22	Cash
+2012-12-31	17:58	Winston–Salem	CDs	157.68	Amex
+2012-12-31	17:58	Oakland	Computers	38.4	Discover
+2012-12-31	17:58	New York	Consumer Electronics	482.29	Amex
+2012-12-31	17:58	Omaha	Garden	199.72	Cash
+2012-12-31	17:58	Albuquerque	Toys	245.41	Discover
+2012-12-31	17:58	Tulsa	Health and Beauty	68	Cash
+2012-12-31	17:58	Garland	Garden	395.02	MasterCard
+2012-12-31	17:58	Portland	Women's Clothing	448.09	Discover
+2012-12-31	17:58	Phoenix	Cameras	394.31	Discover
+2012-12-31	17:58	Garland	Toys	60.61	MasterCard
+2012-12-31	17:58	Newark	DVDs	199.78	MasterCard
+2012-12-31	17:58	Fort Worth	Pet Supplies	438.98	Amex
+2012-12-31	17:58	Washington	CDs	52.83	Discover
+2012-12-31	17:58	St. Louis	Crafts	250.29	MasterCard
+2012-12-31	17:58	Oklahoma City	Consumer Electronics	153.39	Cash
+2012-12-31	17:58	Arlington	Health and Beauty	21.66	Discover
+2012-12-31	17:58	San Bernardino	Video Games	212.25	Visa
+2012-12-31	17:58	Albuquerque	Baby	125.24	Cash
+2012-12-31	17:58	Stockton	Children's Clothing	20.28	Visa
+2012-12-31	17:58	Irving	Computers	36	Discover
+2012-12-31	17:58	Chandler	Music	382.21	Amex
+2012-12-31	17:59	Norfolk	Toys	164.34	MasterCard
+2012-12-31	17:59	Chula Vista	Music	380.67	Visa
+2012-12-31	17:59	Hialeah	Toys	115.21	MasterCard
+2012-12-31	17:59	Indianapolis	Men's Clothing	158.28	MasterCard
+2012-12-31	17:59	Norfolk	Garden	414.09	MasterCard
+2012-12-31	17:59	Baltimore	DVDs	467.3	Visa
+2012-12-31	17:59	Santa Ana	Video Games	144.73	Visa
+2012-12-31	17:59	Gilbert	Consumer Electronics	354.66	Discover
+2012-12-31	17:59	Memphis	Sporting Goods	124.79	Amex
+2012-12-31	17:59	Chicago	Men's Clothing	386.54	MasterCard
+2012-12-31	17:59	Birmingham	CDs	118.04	Cash
+2012-12-31	17:59	Las Vegas	Health and Beauty	420.46	Amex
+2012-12-31	17:59	Wichita	Toys	383.9	Cash
+2012-12-31	17:59	Tucson	Pet Supplies	268.39	MasterCard
+2012-12-31	17:59	Glendale	Women's Clothing	68.05	Amex
+2012-12-31	17:59	Albuquerque	Toys	345.7	MasterCard
+2012-12-31	17:59	Rochester	DVDs	399.57	Amex
+2012-12-31	17:59	Greensboro	Baby	277.27	Discover
+2012-12-31	17:59	Arlington	Women's Clothing	134.95	MasterCard
+2012-12-31	17:59	Corpus Christi	DVDs	441.61	Discover
